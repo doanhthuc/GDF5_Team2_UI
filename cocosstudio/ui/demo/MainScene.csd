@@ -4,9 +4,9 @@
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
-        <Size X="1080.0000" Y="1920.0000" />
+        <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="Default" ActionTag="953446860" Tag="5" IconVisible="False" LeftMargin="81.4733" RightMargin="38.5267" TopMargin="629.5339" BottomMargin="650.4660" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Default" ActionTag="953446860" Tag="5" IconVisible="False" LeftMargin="81.4733" RightMargin="38.5266" TopMargin="629.5339" BottomMargin="650.4660" ctype="SpriteObjectData">
             <Size X="960.0000" Y="640.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="561.4733" Y="970.4660" />
@@ -25,7 +25,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.7461" Y="0.5287" />
             <PreSize X="0.1204" Y="0.0630" />
-            <FileData Type="Normal" Path="texture/lobby_shop_item_gold_3.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

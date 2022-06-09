@@ -7,11 +7,40 @@
           <Folder Name="demo">
             <Image Name="HelloWorld.png" />
           </Folder>
-          <Image Name="lobby_shop_item_gold_3.png" />
+          <Folder Name="mainGUI">
+            <Folder Name="bottom">
+              <Folder Name="nav">
+                <Image Name="lobby_page_btn_0.png" />
+                <Image Name="lobby_page_btn_1.png" />
+                <Image Name="lobby_page_btn_selecting.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="header" />
+            <Folder Name="layers">
+              <Folder Name="lobby">
+                <Image Name="lobby_background.png" />
+                <Image Name="lobby_home_btn_battle.png" />
+                <Image Name="lobby_home_btn_battle_pressing.png" />
+                <Image Name="lobby_home_btn_battle_txt.png" />
+              </Folder>
+              <Folder Name="shop" />
+              <Folder Name="inventory" />
+            </Folder>
+          </Folder>
         </Folder>
         <Folder Name="ui">
           <Folder Name="demo">
             <Project Name="MainScene.csd" Type="Scene" />
+          </Folder>
+          <Folder Name="mainGUI">
+            <Folder Name="header" />
+            <Folder Name="bottom">
+              <Folder Name="nav" />
+            </Folder>
+            <Folder Name="layers">
+              <Project Name="lobby.csd" Type="Layer" />
+            </Folder>
+            <Project Name="Main.csd" Type="Scene" />
           </Folder>
         </Folder>
       </RootFolder>
