@@ -3,44 +3,74 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Folder Name="texture">
-          <Folder Name="demo">
-            <Image Name="HelloWorld.png" />
-          </Folder>
-          <Folder Name="mainGUI">
+        <Folder Name="font">
+          <TTF Name="SVN-Avo bold.ttf" />
+          <TTF Name="SVN-Supercell Magic.ttf" />
+        </Folder>
+        <Folder Name="image">
+          <Folder Name="mainScene">
             <Folder Name="bottom">
-              <Folder Name="nav">
-                <Image Name="lobby_page_btn_0.png" />
-                <Image Name="lobby_page_btn_1.png" />
-                <Image Name="lobby_page_btn_selecting.png" />
-              </Folder>
+              <Image Name="lobby_page_btn_0.png" />
+              <Image Name="lobby_page_btn_1.png" />
+              <Image Name="lobby_page_btn_selecting.png" />
+              <Image Name="lobby_page_icon_cards.png" />
+              <Image Name="lobby_page_icon_home.png" />
+              <Image Name="lobby_page_icon_shop.png" />
             </Folder>
-            <Folder Name="header" />
-            <Folder Name="layers">
-              <Folder Name="lobby">
-                <Image Name="lobby_background.png" />
-                <Image Name="lobby_home_btn_battle.png" />
-                <Image Name="lobby_home_btn_battle_pressing.png" />
-                <Image Name="lobby_home_btn_battle_txt.png" />
-              </Folder>
-              <Folder Name="shop" />
-              <Folder Name="inventory" />
+            <Folder Name="header">
+              <Image Name="lobby_currency_background.png" />
+              <Image Name="lobby_currency_btn_top_up.png" />
+              <Image Name="lobby_box.png" />
             </Folder>
+            <Folder Name="content" />
+            <Image Name="lobby_background.png" />
+            <Image Name="lobby_home_player.png" />
+          </Folder>
+          <Folder Name="inventory" />
+          <Folder Name="shop" />
+          <Folder Name="lobby">
+            <Image Name="lobby_home_btn_battle.png" />
+            <Image Name="lobby_home_btn_battle_pressing.png" />
+            <Image Name="lobby_home_btn_battle_txt.png" />
+            <Image Name="lobby_home_treasure_empty.png" />
+            <Image Name="lobby_home_treasure_finished.png" />
+            <Image Name="lobby_home_treasure_opening.png" />
+          </Folder>
+          <Folder Name="common">
+            <Image Name="common_arena_forest.png" />
+            <Image Name="common_icon_g_small.png" />
+            <Image Name="common_icon_gold_small.png" />
+            <Image Name="common_icon_trophy_small.png" />
+            <Image Name="common_icon_trophy.png" />
+            <Image Name="common_avatar.png" />
+            <Image Name="common_treasure.png" />
+            <Image Name="common_treasure_tutorial.png" />
           </Folder>
         </Folder>
         <Folder Name="ui">
-          <Folder Name="demo">
-            <Project Name="MainScene.csd" Type="Scene" />
+          <Folder Name="inventory" />
+          <Folder Name="lobby">
+            <Project Name="battleBtn.csd" Type="Node" />
+            <Project Name="playerInfoHolder.csd" Type="Node" />
+            <Folder Name="treasureHolders">
+              <Project Name="treasureHolders.csd" Type="Node" />
+              <Folder Name="treasureSlot">
+                <Project Name="treasureSlotEmpty.csd" Type="Node" />
+                <Project Name="treasureSlotOccupied.csd" Type="Node" />
+                <Project Name="treasureSlotOpening.csd" Type="Node" />
+                <Project Name="treasureSlotFinished.csd" Type="Node" />
+              </Folder>
+            </Folder>
           </Folder>
-          <Folder Name="mainGUI">
-            <Folder Name="header" />
+          <Folder Name="shop" />
+          <Folder Name="main">
+            <Project Name="MainScene.csd" Type="Scene" />
             <Folder Name="bottom">
-              <Folder Name="nav" />
+              <Project Name="BottomNav.csd" Type="Node" />
             </Folder>
-            <Folder Name="layers">
-              <Project Name="lobby.csd" Type="Layer" />
+            <Folder Name="header">
+              <Project Name="header.csd" Type="Node" />
             </Folder>
-            <Project Name="Main.csd" Type="Scene" />
           </Folder>
         </Folder>
       </RootFolder>
