@@ -6,7 +6,7 @@
       <ObjectData Name="Scene" Tag="200" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="battle_ui_layer" ActionTag="-1265803242" Tag="433" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="battle_map_layer" ActionTag="-1265803242" Tag="433" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint />
             <Position />
@@ -16,7 +16,7 @@
             <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleMapLayer.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="battle_map_layer" ActionTag="-820026993" Tag="425" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="battle_ui_layer" ActionTag="-820026993" Tag="425" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint />
             <Position />
