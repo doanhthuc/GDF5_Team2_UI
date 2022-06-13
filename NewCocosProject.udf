@@ -4,15 +4,14 @@
       <Value ctype="TabsInfo">
         <OpenedDocuments>
           <FilePathData Path="ui/main/MainScene.csd" />
-          <FilePathData Path="ui/main/bottom/BottomNav.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureHolders.csd" />
+          <FilePathData Path="ui/main/bottom/bottomNav.csd" />
+          <FilePathData Path="ui/main/bottom/navTab.csd" />
+          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/emptySlot.csd" />
           <FilePathData Path="ui/main/header/header.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/treasureSlotEmpty.csd" />
-          <FilePathData Path="ui/lobby/playerInfoHolder.csd" />
+          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/openningSlot/openingSlot.csd" />
           <FilePathData Path="ui/lobby/battleBtn.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/treasureSlotOccupied.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/treasureSlotOpening.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/treasureSlotFinished.csd" />
+          <FilePathData Path="ui/lobby/playerInfoHolder.csd" />
+          <FilePathData Path="ui/lobby/lobbyHomeNode.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="ui/main/MainScene.csd" />
       </Value>

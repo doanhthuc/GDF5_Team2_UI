@@ -16,8 +16,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="image/lobby/lobby_home_btn_battle_pressing.png" Plist="" />
-            <NormalFileData Type="Normal" Path="image/lobby/lobby_home_btn_battle.png" Plist="" />
+            <PressedFileData Type="Normal" Path="assets/lobby/lobby_home_btn_battle_pressing.png" Plist="" />
+            <NormalFileData Type="Normal" Path="assets/lobby/lobby_home_btn_battle.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -29,7 +29,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/lobby/lobby_home_btn_battle_txt.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_home_btn_battle_txt.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

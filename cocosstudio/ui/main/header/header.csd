@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/mainScene/header/lobby_currency_background.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_currency_background.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldBox" ActionTag="1953640469" Tag="85" IconVisible="False" LeftMargin="-160.0000" RightMargin="20.0000" TopMargin="-30.0000" BottomMargin="-10.0000" ctype="SpriteObjectData">
             <Size X="140.0000" Y="40.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/mainScene/header/lobby_box.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_box.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="gemBox" ActionTag="1891324832" Tag="88" IconVisible="False" LeftMargin="20.0000" RightMargin="-160.0000" TopMargin="-30.0000" BottomMargin="-10.0000" ctype="SpriteObjectData">
@@ -35,7 +35,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/mainScene/header/lobby_box.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_box.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="gemIcon" ActionTag="2019171990" Tag="109" IconVisible="False" LeftMargin="-2.5000" RightMargin="-52.5000" TopMargin="-41.5000" BottomMargin="-21.5000" ctype="SpriteObjectData">
@@ -46,7 +46,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/common/common_icon_g_small.png" Plist="" />
+            <FileData Type="Normal" Path="assets/common/common_icon_g_small.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldIcon" ActionTag="-1793433082" Tag="110" IconVisible="False" LeftMargin="-199.7827" RightMargin="139.7827" TopMargin="-41.4409" BottomMargin="-22.5591" ctype="SpriteObjectData">
@@ -57,7 +57,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/common/common_icon_gold_small.png" Plist="" />
+            <FileData Type="Normal" Path="assets/common/common_icon_gold_small.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldTopUpBtn" ActionTag="-960341146" Tag="111" IconVisible="False" LeftMargin="-43.8177" RightMargin="5.8177" TopMargin="-30.3829" BottomMargin="-9.6171" ctype="SpriteObjectData">
@@ -68,7 +68,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/mainScene/header/lobby_currency_btn_top_up.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="gemTopUpBtn" ActionTag="-1403151985" Tag="112" IconVisible="False" LeftMargin="135.6263" RightMargin="-173.6263" TopMargin="-30.4587" BottomMargin="-9.5413" ctype="SpriteObjectData">
@@ -79,7 +79,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="image/mainScene/header/lobby_currency_btn_top_up.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldTxt" ActionTag="-1666873092" Tag="240" IconVisible="False" LeftMargin="-150.6670" RightMargin="31.6670" TopMargin="-23.9541" BottomMargin="-3.0459" FontSize="20" LabelText="923.000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -90,7 +90,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -102,7 +102,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

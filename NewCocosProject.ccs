@@ -3,75 +3,78 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Folder Name="font">
-          <TTF Name="SVN-Avo bold.ttf" />
-          <TTF Name="SVN-Supercell Magic.ttf" />
-        </Folder>
-        <Folder Name="image">
-          <Folder Name="mainScene">
-            <Folder Name="bottom">
-              <Image Name="lobby_page_btn_0.png" />
-              <Image Name="lobby_page_btn_1.png" />
-              <Image Name="lobby_page_btn_selecting.png" />
-              <Image Name="lobby_page_icon_cards.png" />
-              <Image Name="lobby_page_icon_home.png" />
-              <Image Name="lobby_page_icon_shop.png" />
+        <Folder Name="assets">
+          <Folder Name="common">
+            <Folder Name="fx">
+              <PlistParticleFile Name="arena_particle.plist" />
             </Folder>
-            <Folder Name="header">
-              <Image Name="lobby_currency_background.png" />
-              <Image Name="lobby_currency_btn_top_up.png" />
-              <Image Name="lobby_box.png" />
-            </Folder>
-            <Folder Name="content" />
-            <Image Name="lobby_background.png" />
-            <Image Name="lobby_home_player.png" />
+            <Image Name="common_arena_forest.png" />
+            <Image Name="common_avatar.png" />
+            <Image Name="common_icon_g_small.png" />
+            <Image Name="common_icon_gold_small.png" />
+            <Image Name="common_icon_trophy.png" />
+            <Image Name="common_icon_trophy_small.png" />
+            <Image Name="common_treasure.png" />
           </Folder>
-          <Folder Name="inventory" />
-          <Folder Name="shop" />
+          <Folder Name="font">
+            <TTF Name="SVN-Avo bold.ttf" />
+            <TTF Name="SVN-Supercell Magic.ttf" />
+          </Folder>
           <Folder Name="lobby">
+            <Folder Name="treasure">
+              <Image Name="common_treasure_tutorial.png" />
+            </Folder>
+            <Image Name="lobby_background.png" />
+            <Image Name="lobby_box.png" />
+            <Image Name="lobby_currency_background.png" />
+            <Image Name="lobby_currency_btn_top_up.png" />
             <Image Name="lobby_home_btn_battle.png" />
             <Image Name="lobby_home_btn_battle_pressing.png" />
             <Image Name="lobby_home_btn_battle_txt.png" />
+            <Image Name="lobby_home_player.png" />
             <Image Name="lobby_home_treasure_empty.png" />
             <Image Name="lobby_home_treasure_finished.png" />
             <Image Name="lobby_home_treasure_opening.png" />
-          </Folder>
-          <Folder Name="common">
-            <Image Name="common_arena_forest.png" />
-            <Image Name="common_icon_g_small.png" />
-            <Image Name="common_icon_gold_small.png" />
-            <Image Name="common_icon_trophy_small.png" />
-            <Image Name="common_icon_trophy.png" />
-            <Image Name="common_avatar.png" />
-            <Image Name="common_treasure.png" />
-            <Image Name="common_treasure_tutorial.png" />
+            <Image Name="lobby_home_treasure_opening_time.png" />
+            <Image Name="lobby_page_btn_0.png" />
+            <Image Name="lobby_page_btn_1.png" />
+            <Image Name="lobby_page_btn_selecting.png" />
+            <Image Name="lobby_page_icon_cards.png" />
+            <Image Name="lobby_page_icon_home.png" />
+            <Image Name="lobby_page_icon_shop.png" />
+            <Image Name="lobby_stat_icon_time.png" />
           </Folder>
         </Folder>
         <Folder Name="ui">
           <Folder Name="inventory" />
           <Folder Name="lobby">
-            <Project Name="battleBtn.csd" Type="Node" />
-            <Project Name="playerInfoHolder.csd" Type="Node" />
             <Folder Name="treasureHolders">
-              <Project Name="treasureHolders.csd" Type="Node" />
               <Folder Name="treasureSlot">
-                <Project Name="treasureSlotEmpty.csd" Type="Node" />
-                <Project Name="treasureSlotOccupied.csd" Type="Node" />
-                <Project Name="treasureSlotOpening.csd" Type="Node" />
-                <Project Name="treasureSlotFinished.csd" Type="Node" />
+                <Project Name="emptySlot.csd" Type="Node" />
+                <Project Name="finishedSlot.csd" Type="Node" />
+                <Folder Name="openningSlot">
+                  <Project Name="countdownHolder.csd" Type="Node" />
+                  <Project Name="openingSlot.csd" Type="Node" />
+                </Folder>
+                <Project Name="occupiedSlot.csd" Type="Node" />
               </Folder>
+              <Project Name="treasureHolders.csd" Type="Node" />
             </Folder>
+            <Project Name="battleBtn.csd" Type="Node" />
+            <Project Name="lobbyHomeNode.csd" Type="Node" />
+            <Project Name="playerInfoHolder.csd" Type="Node" />
           </Folder>
-          <Folder Name="shop" />
           <Folder Name="main">
-            <Project Name="MainScene.csd" Type="Scene" />
             <Folder Name="bottom">
-              <Project Name="BottomNav.csd" Type="Node" />
+              <Project Name="bottomNav.csd" Type="Node" />
+              <Project Name="navTab.csd" Type="Node" />
             </Folder>
             <Folder Name="header">
               <Project Name="header.csd" Type="Node" />
             </Folder>
+            <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
+          <Folder Name="shop" />
         </Folder>
       </RootFolder>
     </Group>

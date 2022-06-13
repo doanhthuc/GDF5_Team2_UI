@@ -14,68 +14,93 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.5000" />
             <PreSize X="1.0000" Y="1.0000" />
-            <FileData Type="Normal" Path="image/mainScene/lobby_background.png" Plist="" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_background.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="bottomNav" ActionTag="2128432903" Tag="57" IconVisible="True" PositionPercentXEnabled="True" LeftMargin="320.0001" RightMargin="319.9999" TopMargin="1081.0000" BottomMargin="55.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="320.0001" Y="55.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.0484" />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/main/bottom/BottomNav.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="treasureHolder" ActionTag="-824568226" Tag="94" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="917.2755" BottomMargin="218.7245" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="320.0000" Y="218.7245" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.1925" />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureHolders.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="battleBtn" ActionTag="-1895683840" Tag="104" IconVisible="True" LeftMargin="321.9286" RightMargin="318.0714" TopMargin="734.0685" BottomMargin="401.9315" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="321.9286" Y="401.9315" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5030" Y="0.3538" />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/lobby/battleBtn.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="arenaImg" ActionTag="798333993" Tag="108" IconVisible="False" LeftMargin="17.4999" RightMargin="17.5001" TopMargin="162.2248" BottomMargin="341.7752" ctype="SpriteObjectData">
-            <Size X="605.0000" Y="632.0000" />
+          <AbstractNodeData Name="PageView_1" ActionTag="-345746020" Tag="349" IconVisible="False" LeftMargin="0.0005" RightMargin="-0.0005" TopMargin="5.7715" BottomMargin="-5.7715" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ctype="PageViewObjectData">
+            <Size X="640.0000" Y="1136.0000" />
+            <Children>
+              <AbstractNodeData Name="inventoryPanel" ActionTag="-1222144110" Tag="352" IconVisible="False" RightMargin="1280.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                <Size X="640.0000" Y="1136.0000" />
+                <AnchorPoint />
+                <Position />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize X="0.3333" Y="1.0000" />
+                <SingleColor A="255" R="255" G="255" B="0" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="shopPanel" ActionTag="242347354" ZOrder="1" Tag="351" IconVisible="False" LeftMargin="640.0000" RightMargin="640.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                <Size X="640.0000" Y="1136.0000" />
+                <AnchorPoint />
+                <Position X="640.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3333" />
+                <PreSize X="0.3333" Y="1.0000" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="lobbyHomePanel" ActionTag="561413556" ZOrder="2" Tag="350" IconVisible="False" LeftMargin="1280.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                <Size X="640.0000" Y="1136.0000" />
+                <Children>
+                  <AbstractNodeData Name="lobbyHomeNode" ActionTag="2117012557" Tag="640" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="568.0000" BottomMargin="568.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+                    <Size X="0.0000" Y="0.0000" />
+                    <AnchorPoint />
+                    <Position X="320.0000" Y="568.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="Normal" Path="ui/lobby/lobbyHomeNode.csd" Plist="" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint />
+                <Position X="1280.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6667" />
+                <PreSize X="0.3333" Y="1.0000" />
+                <SingleColor A="255" R="255" G="0" B="0" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </AbstractNodeData>
+            </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="319.9999" Y="657.7752" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.5790" />
-            <PreSize X="0.9453" Y="0.5563" />
-            <FileData Type="Normal" Path="image/common/common_arena_forest.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="concurencyHolder" ActionTag="-306060697" Tag="113" IconVisible="True" LeftMargin="321.0000" RightMargin="319.0000" TopMargin="43.1058" BottomMargin="1092.8942" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="321.0000" Y="1092.8942" />
+            <Position X="320.0005" Y="562.2285" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5016" Y="0.9621" />
+            <PrePosition X="0.5000" Y="0.4949" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <SingleColor A="255" R="150" G="150" B="100" />
+            <FirstColor A="255" R="150" G="150" B="100" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="bottomNav" ActionTag="2128432903" VisibleForFrame="False" Tag="57" IconVisible="True" PositionPercentXEnabled="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="1136.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="320.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ui/main/bottom/bottomNav.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="concurencyHolder" ActionTag="-306060697" Tag="113" IconVisible="True" LeftMargin="320.0005" RightMargin="319.9995" TopMargin="44.6442" BottomMargin="1091.3558" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="320.0005" Y="1091.3558" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.9607" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/main/header/header.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="playerInfoHolder" ActionTag="-1060530172" Tag="146" IconVisible="True" LeftMargin="320.6915" RightMargin="319.3085" TopMargin="139.4240" BottomMargin="996.5760" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="320.6915" Y="996.5760" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5011" Y="0.8773" />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/lobby/playerInfoHolder.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
