@@ -50,12 +50,12 @@
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
               <Folder Name="treasureSlot">
-                <Project Name="emptySlot.csd" Type="Node" />
-                <Project Name="finishedSlot.csd" Type="Node" />
                 <Folder Name="openningSlot">
                   <Project Name="countdownHolder.csd" Type="Node" />
                   <Project Name="openingSlot.csd" Type="Node" />
                 </Folder>
+                <Project Name="emptySlot.csd" Type="Node" />
+                <Project Name="finishedSlot.csd" Type="Node" />
                 <Project Name="occupiedSlot.csd" Type="Node" />
               </Folder>
               <Project Name="treasureHolders.csd" Type="Node" />
