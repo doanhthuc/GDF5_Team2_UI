@@ -16,7 +16,7 @@
             <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="assets/lobby/lobby_background.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="PageView_1" ActionTag="-345746020" Tag="349" IconVisible="False" LeftMargin="0.0005" RightMargin="-0.0005" TopMargin="5.7715" BottomMargin="-5.7715" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ctype="PageViewObjectData">
+          <AbstractNodeData Name="mainPageView" ActionTag="-345746020" Tag="349" IconVisible="False" LeftMargin="0.0005" RightMargin="-0.0005" TopMargin="5.7715" BottomMargin="-5.7715" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ctype="PageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <Children>
               <AbstractNodeData Name="inventoryPanel" ActionTag="-1222144110" Tag="352" IconVisible="False" RightMargin="1280.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
@@ -92,7 +92,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/main/bottom/bottomNav.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="concurencyHolder" ActionTag="-306060697" Tag="113" IconVisible="True" LeftMargin="320.0005" RightMargin="319.9995" TopMargin="44.6442" BottomMargin="1091.3558" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="concurrencyHolder" ActionTag="-306060697" Tag="113" IconVisible="True" LeftMargin="320.0005" RightMargin="319.9995" TopMargin="44.6442" BottomMargin="1091.3558" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="320.0005" Y="1091.3558" />

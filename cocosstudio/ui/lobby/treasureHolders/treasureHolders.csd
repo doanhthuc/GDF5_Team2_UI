@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/openningSlot/openingSlot.csd" Plist="" />
+            <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/openingSlot/openingSlot.csd" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="FileNode_6" ActionTag="692979117" Tag="166" IconVisible="True" LeftMargin="81.6000" RightMargin="-81.6000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />

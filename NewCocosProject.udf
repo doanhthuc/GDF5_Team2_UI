@@ -3,15 +3,18 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="ui/main/MainScene.csd" />
           <FilePathData Path="ui/main/bottom/bottomNav.csd" />
           <FilePathData Path="ui/main/bottom/navTab.csd" />
           <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/emptySlot.csd" />
           <FilePathData Path="ui/main/header/header.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/openningSlot/openingSlot.csd" />
+          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/openingSlot/openingSlot.csd" />
           <FilePathData Path="ui/lobby/battleBtn.csd" />
           <FilePathData Path="ui/lobby/playerInfoHolder.csd" />
           <FilePathData Path="ui/lobby/lobbyHomeNode.csd" />
+          <FilePathData Path="ui/main/header/concurrencyHolder.csd" />
+          <FilePathData Path="ui/main/MainScene.csd" />
+          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/occupiedSlot.csd" />
+          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/finishedSlot.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="ui/main/MainScene.csd" />
       </Value>

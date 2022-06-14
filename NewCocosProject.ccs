@@ -50,7 +50,7 @@
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
               <Folder Name="treasureSlot">
-                <Folder Name="openningSlot">
+                <Folder Name="openingSlot">
                   <Project Name="countdownHolder.csd" Type="Node" />
                   <Project Name="openingSlot.csd" Type="Node" />
                 </Folder>
@@ -71,6 +71,7 @@
             </Folder>
             <Folder Name="header">
               <Project Name="header.csd" Type="Node" />
+              <Project Name="concurrencyHolder.csd" Type="Node" />
             </Folder>
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>

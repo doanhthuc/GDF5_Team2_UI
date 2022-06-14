@@ -60,21 +60,10 @@
             <FileData Type="Normal" Path="assets/common/common_icon_gold_small.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="goldTopUpBtn" ActionTag="-960341146" Tag="111" IconVisible="False" LeftMargin="-43.8177" RightMargin="5.8177" TopMargin="-30.3829" BottomMargin="-9.6171" ctype="SpriteObjectData">
+          <AbstractNodeData Name="gemTopUpBtn" ActionTag="-1403151985" Tag="112" IconVisible="False" LeftMargin="135.6300" RightMargin="-173.6300" TopMargin="-30.4600" BottomMargin="-9.5400" ctype="SpriteObjectData">
             <Size X="38.0000" Y="40.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-24.8177" Y="10.3829" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="gemTopUpBtn" ActionTag="-1403151985" Tag="112" IconVisible="False" LeftMargin="135.6263" RightMargin="-173.6263" TopMargin="-30.4587" BottomMargin="-9.5413" ctype="SpriteObjectData">
-            <Size X="38.0000" Y="40.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="154.6263" Y="10.4587" />
+            <Position X="154.6300" Y="10.4600" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -103,6 +92,36 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="goldTopUpBtn" ActionTag="33029837" Tag="276" IconVisible="False" LeftMargin="-43.8200" RightMargin="5.8200" TopMargin="-30.3800" BottomMargin="-9.6200" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="8" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="38.0000" Y="40.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-24.8200" Y="10.3800" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
+            <NormalFileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="gemTopUpBtn" ActionTag="1603225009" Tag="297" IconVisible="False" LeftMargin="135.6300" RightMargin="-173.6300" TopMargin="-30.4600" BottomMargin="-9.5400" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="8" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="38.0000" Y="40.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="154.6300" Y="10.4600" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
+            <NormalFileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

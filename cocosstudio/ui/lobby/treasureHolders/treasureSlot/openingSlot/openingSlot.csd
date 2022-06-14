@@ -73,7 +73,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/openningSlot/countdownHolder.csd" Plist="" />
+            <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/openingSlot/countdownHolder.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

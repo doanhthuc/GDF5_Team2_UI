@@ -31,7 +31,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="assets/lobby/lobby_page_icon_home.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="nameTxt" ActionTag="-1322961077" VisibleForFrame="False" Tag="437" IconVisible="False" LeftMargin="-77.0000" RightMargin="-77.0000" TopMargin="20.6723" BottomMargin="-49.6723" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="nameTxt" ActionTag="-1322961077" VisibleForFrame="False" Tag="437" IconVisible="False" LeftMargin="-77.0000" RightMargin="-77.0000" TopMargin="20.6723" BottomMargin="-49.6723" FontSize="20" LabelText="Text Label" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="154.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="-35.1723" />
