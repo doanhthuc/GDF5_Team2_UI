@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="89" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="FileNode_5" ActionTag="880218339" Tag="161" IconVisible="True" LeftMargin="-244.5000" RightMargin="244.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="slot0" ActionTag="880218339" Tag="161" IconVisible="True" LeftMargin="-244.5000" RightMargin="244.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="-244.5000" />
@@ -16,7 +16,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/finishedSlot.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_7" ActionTag="-169206743" Tag="175" IconVisible="True" LeftMargin="-81.5000" RightMargin="81.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="slot1" ActionTag="-169206743" Tag="175" IconVisible="True" LeftMargin="-81.5000" RightMargin="81.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="-81.5000" />
@@ -26,7 +26,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/openingSlot/openingSlot.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_6" ActionTag="692979117" Tag="166" IconVisible="True" LeftMargin="81.6000" RightMargin="-81.6000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="slot2" ActionTag="692979117" Tag="166" IconVisible="True" LeftMargin="81.6000" RightMargin="-81.6000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="81.6000" />
@@ -36,7 +36,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/occupiedSlot.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_4" ActionTag="1861328998" Tag="205" IconVisible="True" LeftMargin="244.5000" RightMargin="-244.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="slot3" ActionTag="1861328998" Tag="205" IconVisible="True" LeftMargin="244.5000" RightMargin="-244.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="244.5000" />

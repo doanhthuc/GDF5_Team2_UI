@@ -70,8 +70,8 @@
               <Project Name="navTab.csd" Type="Node" />
             </Folder>
             <Folder Name="header">
-              <Project Name="header.csd" Type="Node" />
               <Project Name="concurrencyHolder.csd" Type="Node" />
+              <Project Name="header.csd" Type="Node" />
             </Folder>
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
