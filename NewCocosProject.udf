@@ -1,23 +1,5 @@
 <UserData Version="3.10.0.0">
   <Properties>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="ui/main/bottom/navTab.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/emptySlot.csd" />
-          <FilePathData Path="ui/main/header/header.csd" />
-          <FilePathData Path="ui/lobby/lobbyHomeNode.csd" />
-          <FilePathData Path="ui/main/header/concurrencyHolder.csd" />
-          <FilePathData Path="ui/main/MainScene.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/occupiedSlot.csd" />
-          <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/finishedSlot.csd" />
-          <FilePathData Path="ui/inventory/card.csd" />
-          <FilePathData Path="ui/inventory/inventoryNode.csd" />
-          <FilePathData Path="ui/lobby/treasurePopUp.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="ui/lobby/treasurePopUp.csd" />
-      </Value>
-    </Item>
     <Item Key="CocosRecentOperation">
       <Value ctype="CocosRecentOperation">
         <LastPublishType Value="Resource" />

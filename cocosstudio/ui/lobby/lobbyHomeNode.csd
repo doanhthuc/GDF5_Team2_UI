@@ -37,7 +37,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/lobby/battleBtn.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="treasureHolder" ActionTag="667195930" Tag="552" IconVisible="True" LeftMargin="0.0034" RightMargin="-0.0034" TopMargin="346.0609" BottomMargin="-346.0609" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="treasureHolder" ActionTag="667195930" VisibleForFrame="False" Tag="552" IconVisible="True" LeftMargin="0.0034" RightMargin="-0.0034" TopMargin="346.0609" BottomMargin="-346.0609" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="0.0034" Y="-346.0609" />

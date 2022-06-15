@@ -32,7 +32,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="shopPanel" ActionTag="242347354" ZOrder="1" Tag="351" IconVisible="False" LeftMargin="640.0000" RightMargin="640.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="shopPanel" ActionTag="242347354" ZOrder="1" Tag="351" IconVisible="False" LeftMargin="640.0000" RightMargin="640.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="640.0000" Y="1136.0000" />
                 <AnchorPoint />
                 <Position X="640.0000" />
@@ -45,20 +45,8 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="lobbyHomePanel" ActionTag="561413556" ZOrder="2" Tag="350" IconVisible="False" LeftMargin="1280.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="lobbyHomePanel" ActionTag="561413556" ZOrder="2" Tag="350" IconVisible="False" LeftMargin="1280.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="640.0000" Y="1136.0000" />
-                <Children>
-                  <AbstractNodeData Name="lobbyHomeNode" ActionTag="2117012557" Tag="640" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="568.0000" BottomMargin="568.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                    <Size X="0.0000" Y="0.0000" />
-                    <AnchorPoint />
-                    <Position X="320.0000" Y="568.0000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="ui/lobby/lobbyHomeNode.csd" Plist="" />
-                  </AbstractNodeData>
-                </Children>
                 <AnchorPoint />
                 <Position X="1280.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
