@@ -4,16 +4,27 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Folder Name="assets">
+          <Folder Name="card">
+            <Image Name="card_background_2.png" />
+            <Image Name="card_border_1.png" />
+            <Image Name="card_level.png" />
+            <Image Name="card_tower_cannon.png" />
+          </Folder>
           <Folder Name="common">
             <Folder Name="fx">
               <PlistParticleFile Name="arena_particle.plist" />
             </Folder>
             <Image Name="common_arena_forest.png" />
             <Image Name="common_avatar.png" />
+            <Image Name="common_btn_green.png" />
+            <Image Name="common_icon_energy.png" />
             <Image Name="common_icon_g_small.png" />
             <Image Name="common_icon_gold_small.png" />
             <Image Name="common_icon_trophy.png" />
             <Image Name="common_icon_trophy_small.png" />
+            <Image Name="common_panel_background.png" />
+            <Image Name="common_panel_btn_close.png" />
+            <Image Name="common_panel_front.png" />
             <Image Name="common_treasure.png" />
           </Folder>
           <Folder Name="font">
@@ -22,10 +33,12 @@
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasure">
+              <Image Name="common_treasure_pedestal.png" />
               <Image Name="common_treasure_tutorial.png" />
             </Folder>
             <Image Name="lobby_background.png" />
             <Image Name="lobby_box.png" />
+            <Image Name="lobby_card_deck.png" />
             <Image Name="lobby_currency_background.png" />
             <Image Name="lobby_currency_btn_top_up.png" />
             <Image Name="lobby_home_btn_battle.png" />
@@ -46,7 +59,6 @@
           </Folder>
         </Folder>
         <Folder Name="ui">
-          <Folder Name="inventory" />
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
               <Folder Name="treasureSlot">
@@ -63,6 +75,7 @@
             <Project Name="battleBtn.csd" Type="Node" />
             <Project Name="lobbyHomeNode.csd" Type="Node" />
             <Project Name="playerInfoHolder.csd" Type="Node" />
+            <Project Name="treasurePopUp.csd" Type="Node" />
           </Folder>
           <Folder Name="main">
             <Folder Name="bottom">
@@ -76,6 +89,10 @@
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
           <Folder Name="shop" />
+          <Folder Name="inventory">
+            <Project Name="card.csd" Type="Node" />
+            <Project Name="inventoryNode.csd" Type="Node" />
+          </Folder>
         </Folder>
       </RootFolder>
     </Group>

@@ -11,8 +11,11 @@
           <FilePathData Path="ui/main/MainScene.csd" />
           <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/occupiedSlot.csd" />
           <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/finishedSlot.csd" />
+          <FilePathData Path="ui/inventory/card.csd" />
+          <FilePathData Path="ui/inventory/inventoryNode.csd" />
+          <FilePathData Path="ui/lobby/treasurePopUp.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/lobby/lobbyHomeNode.csd" />
+        <ActiveDocument Path="ui/lobby/treasurePopUp.csd" />
       </Value>
     </Item>
     <Item Key="CocosRecentOperation">
