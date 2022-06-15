@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="inventoryNode" Type="Node" ID="f6c53ca2-6efb-4579-a6a1-475948eee103" Version="3.10.0.0" />
+  <PropertyGroup Name="battleDeckHolder" Type="Node" ID="f6c53ca2-6efb-4579-a6a1-475948eee103" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -27,46 +27,6 @@
             <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_1" ActionTag="-1751898115" Tag="135" IconVisible="True" LeftMargin="-227.4471" RightMargin="227.4471" TopMargin="-104.8252" BottomMargin="104.8252" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="-227.4471" Y="104.8252" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_2" ActionTag="938165985" Tag="144" IconVisible="True" LeftMargin="-73.5286" RightMargin="73.5286" TopMargin="-105.4770" BottomMargin="105.4770" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="-73.5286" Y="105.4770" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_3" ActionTag="1532091572" Tag="154" IconVisible="True" LeftMargin="83.6000" RightMargin="-83.6000" TopMargin="-109.0374" BottomMargin="109.0374" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="83.6000" Y="109.0374" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_3_0" ActionTag="-1011996180" Tag="1214" IconVisible="True" LeftMargin="235.6761" RightMargin="-235.6761" TopMargin="-108.4451" BottomMargin="108.4451" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="235.6761" Y="108.4451" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

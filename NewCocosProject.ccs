@@ -187,8 +187,8 @@
         </Folder>
         <Folder Name="ui">
           <Folder Name="inventory">
-            <Project Name="card.csd" Type="Node" />
             <Project Name="battleDeckHolder.csd" Type="Node" />
+            <Project Name="card.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
@@ -220,7 +220,9 @@
             </Folder>
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
-          <Folder Name="shop" />
+          <Folder Name="shop">
+            <Project Name="shopSection.csd" Type="Node" />
+          </Folder>
         </Folder>
       </RootFolder>
     </Group>
