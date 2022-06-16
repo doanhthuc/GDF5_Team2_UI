@@ -37,8 +37,12 @@
           <FilePathData Path="ui/lobby/lobbyHomeNode.csd" />
           <FilePathData Path="ui/lobby/treasureHolders/treasureHolders.csd" />
           <FilePathData Path="ui/shop/shopSection.csd" />
+          <FilePathData Path="ui/lobby/treasurePopup.csd" />
+          <FilePathData Path="ui/lobby/playerInfoHolder.csd" />
+          <FilePathData Path="ui/lobby/battleBtn.csd" />
+          <FilePathData Path="ui/shop/shopItem.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/shop/shopSection.csd" />
+        <ActiveDocument Path="ui/shop/shopItem.csd" />
       </Value>
     </Item>
   </Properties>

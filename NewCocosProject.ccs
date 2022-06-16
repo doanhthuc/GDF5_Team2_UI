@@ -222,6 +222,7 @@
           </Folder>
           <Folder Name="shop">
             <Project Name="shopSection.csd" Type="Node" />
+            <Project Name="shopItem.csd" Type="Node" />
           </Folder>
         </Folder>
       </RootFolder>
