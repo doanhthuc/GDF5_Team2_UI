@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="216" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_1" ActionTag="-531045196" Tag="217" IconVisible="False" LeftMargin="-304.0000" RightMargin="-304.0000" TopMargin="-139.5000" BottomMargin="-139.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="shopPanelBackgroundImg" ActionTag="-531045196" Tag="217" IconVisible="False" LeftMargin="-304.0000" RightMargin="-304.0000" TopMargin="-139.5000" BottomMargin="-139.5000" ctype="SpriteObjectData">
             <Size X="608.0000" Y="279.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -17,39 +17,55 @@
             <FileData Type="Normal" Path="assets/lobby/lobby_shop_category.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_7" ActionTag="-322440867" Tag="78" IconVisible="False" LeftMargin="-151.5000" RightMargin="-151.5000" TopMargin="-122.0810" BottomMargin="91.0810" ctype="SpriteObjectData">
-            <Size X="303.0000" Y="31.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position Y="106.5810" />
+          <AbstractNodeData Name="shopRefreshNode" ActionTag="557135834" Tag="177" IconVisible="True" TopMargin="-110.0001" BottomMargin="110.0001" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position Y="110.0001" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_category_refresh.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
+            <FileData Type="Normal" Path="ui/shop/refershShopNode.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_2" ActionTag="-1915994107" Tag="218" IconVisible="False" LeftMargin="-304.0000" RightMargin="-304.0000" TopMargin="-211.0000" BottomMargin="109.0000" ctype="SpriteObjectData">
-            <Size X="608.0000" Y="102.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position Y="160.0000" />
+          <AbstractNodeData Name="shopCategoryNode" ActionTag="191586194" Tag="173" IconVisible="True" LeftMargin="-0.0002" RightMargin="0.0002" TopMargin="-164.9991" BottomMargin="164.9991" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="-0.0002" Y="164.9991" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_banner.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
+            <FileData Type="Normal" Path="ui/shop/shopCategory.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_4" ActionTag="267282724" Tag="79" IconVisible="False" LeftMargin="-89.6181" RightMargin="-7.3819" TopMargin="-113.5810" BottomMargin="93.5810" FontSize="14" LabelText="Làm mới sau: " ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="97.0000" Y="20.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-41.1181" Y="103.5810" />
+          <AbstractNodeData Name="FileNode_6" ActionTag="-363908380" Tag="213" IconVisible="True" LeftMargin="-185.6969" RightMargin="185.6969" TopMargin="10.5355" BottomMargin="-10.5355" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="-185.6969" Y="-10.5355" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="169" G="167" B="167" />
+            <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Avo bold.ttf" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
+            <FileData Type="Normal" Path="ui/shop/shopItemSlot.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="FileNode_7" ActionTag="1542536379" Tag="227" IconVisible="True" LeftMargin="0.0001" RightMargin="-0.0001" TopMargin="9.2190" BottomMargin="-9.2190" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="0.0001" Y="-9.2190" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ui/shop/shopItemSlot.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="FileNode_8" ActionTag="-140439845" Tag="241" IconVisible="True" LeftMargin="184.3817" RightMargin="-184.3817" TopMargin="10.5355" BottomMargin="-10.5355" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="184.3817" Y="-10.5355" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ui/shop/shopItemSlot.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

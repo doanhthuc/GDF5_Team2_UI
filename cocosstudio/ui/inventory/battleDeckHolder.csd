@@ -6,10 +6,10 @@
       <ObjectData Name="Node" Tag="133" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="battleDeckHolderImg" ActionTag="-73051337" Tag="1205" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-302.0000" BottomMargin="-302.0000" LeftEage="225" RightEage="225" TopEage="199" BottomEage="199" Scale9OriginX="225" Scale9OriginY="199" Scale9Width="232" Scale9Height="206" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="battleDeckHolderImg" ActionTag="-73051337" Tag="1205" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-305.7567" BottomMargin="-298.2433" LeftEage="225" RightEage="225" TopEage="199" BottomEage="199" Scale9OriginX="225" Scale9OriginY="199" Scale9Width="232" Scale9Height="206" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="604.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position />
+            <Position Y="3.7567" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
