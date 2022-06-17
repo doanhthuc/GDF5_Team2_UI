@@ -35,11 +35,11 @@
               <AbstractNodeData Name="inventoryPanel" ActionTag="242347354" ZOrder="1" Tag="351" IconVisible="False" LeftMargin="640.0000" RightMargin="640.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="640.0000" Y="1136.0000" />
                 <Children>
-                  <AbstractNodeData Name="inventoryListView" ActionTag="-1873726942" Tag="473" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="0.0002" RightMargin="-0.0002" ClipAble="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="0" DirectionType="Vertical" HorizontalType="Align_HorizontalCenter" ctype="ListViewObjectData">
+                  <AbstractNodeData Name="inventoryListView" ActionTag="-1873726942" Alpha="0" Tag="473" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="0" DirectionType="Vertical" HorizontalType="Align_HorizontalCenter" ctype="ListViewObjectData">
                     <Size X="640.0000" Y="1136.0000" />
                     <Children>
-                      <AbstractNodeData Name="listViewPanel" ActionTag="-1176751150" Tag="494" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
-                        <Size X="640.0000" Y="3000.0000" />
+                      <AbstractNodeData Name="listViewPanel" ActionTag="-147909061" Tag="188" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="640.0000" Y="2000.0000" />
                         <AnchorPoint />
                         <Position />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -53,7 +53,7 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="320.0002" Y="568.0000" />
+                    <Position X="320.0000" Y="568.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />

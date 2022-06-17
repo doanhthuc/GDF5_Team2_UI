@@ -16,10 +16,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="assets/lobby/lobby_card_deck.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="battleDeckTxt" ActionTag="504907641" Tag="153" IconVisible="False" LeftMargin="-263.4127" RightMargin="-49.5873" TopMargin="-273.8655" BottomMargin="240.8655" FontSize="24" LabelText="BỘ BÀI CHIẾN ĐẤU" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
+          <AbstractNodeData Name="battleDeckTxt" ActionTag="504907641" Tag="153" IconVisible="False" LeftMargin="-259.4125" RightMargin="-53.5875" TopMargin="-279.2569" BottomMargin="246.2569" FontSize="24" LabelText="BỘ BÀI CHIẾN ĐẤU" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
             <Size X="313.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-106.9127" Y="257.3655" />
+            <Position X="-102.9125" Y="262.7569" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="240" G="240" B="134" />
             <PrePosition />
