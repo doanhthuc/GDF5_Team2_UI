@@ -49,8 +49,9 @@
           <FilePathData Path="ui/shop/shopCategory.csd" />
           <FilePathData Path="ui/main/bottom/bottomNav.csd" />
           <FilePathData Path="ui/main/bottom/navTab.csd" />
+          <FilePathData Path="ui/inventory/cardUpgradeProgress.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/main/MainScene.csd" />
+        <ActiveDocument Path="ui/inventory/card.csd" />
       </Value>
     </Item>
   </Properties>

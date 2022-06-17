@@ -8,6 +8,18 @@
         <Children>
           <AbstractNodeData Name="Button_1" ActionTag="-447634893" Tag="126" IconVisible="False" LeftMargin="-59.0000" RightMargin="-59.0000" TopMargin="-82.0000" BottomMargin="-82.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="88" Scale9Height="142" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="118.0000" Y="164.0000" />
+            <Children>
+              <AbstractNodeData Name="FileNode_1" ActionTag="750460195" Tag="79" IconVisible="True" PositionPercentXEnabled="True" LeftMargin="59.0000" RightMargin="59.0000" TopMargin="192.0000" BottomMargin="-28.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+                <Size X="0.0000" Y="0.0000" />
+                <AnchorPoint />
+                <Position X="59.0000" Y="-28.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="-0.1707" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="Normal" Path="ui/inventory/cardUpgradeProgress.csd" Plist="" />
+              </AbstractNodeData>
+            </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -16,7 +28,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
+            <PressedFileData Type="Normal" Path="assets/card/card_background_2.png" Plist="" />
             <NormalFileData Type="Normal" Path="assets/card/card_background_2.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -77,7 +89,7 @@
             <FileData Type="Normal" Path="assets/common/common_icon_energy.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2" ActionTag="977407168" Tag="132" IconVisible="False" LeftMargin="-70.6567" RightMargin="40.6567" TopMargin="-89.1317" BottomMargin="65.1317" FontSize="16" LabelText="29" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_2" ActionTag="977407168" Tag="132" IconVisible="False" LeftMargin="-70.6577" RightMargin="40.6577" TopMargin="-89.1324" BottomMargin="65.1324" FontSize="16" LabelText="29" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="30.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.3567" ScaleY="0.3908" />
             <Position X="-59.9567" Y="74.5116" />

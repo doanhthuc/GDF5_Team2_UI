@@ -190,6 +190,7 @@
             <Project Name="battleDeckHolder.csd" Type="Node" />
             <Project Name="card.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
+            <Project Name="cardUpgradeProgress.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
@@ -221,12 +222,12 @@
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
           <Folder Name="shop">
+            <Project Name="costButton.csd" Type="Node" />
+            <Project Name="refershShopNode.csd" Type="Node" />
+            <Project Name="shopCardItem.csd" Type="Node" />
+            <Project Name="shopCategory.csd" Type="Node" />
             <Project Name="shopItemSlot.csd" Type="Node" />
             <Project Name="shopSection.csd" Type="Node" />
-            <Project Name="costButton.csd" Type="Node" />
-            <Project Name="shopCardItem.csd" Type="Node" />
-            <Project Name="refershShopNode.csd" Type="Node" />
-            <Project Name="shopCategory.csd" Type="Node" />
           </Folder>
         </Folder>
       </RootFolder>
