@@ -26,7 +26,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleRiver.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background_left" ActionTag="1232262600" Tag="155" IconVisible="False" LeftMargin="-286.7963" RightMargin="306.7963" TopMargin="-193.7085" BottomMargin="273.7086" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="background_left" ActionTag="1232262600" Tag="155" IconVisible="False" LeftMargin="-286.7963" RightMargin="306.7963" TopMargin="-193.7086" BottomMargin="273.7086" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="1056.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="23.2037" Y="801.7086" />
@@ -96,7 +96,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="assets/map/map_decoration_tree_0001.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_4" ActionTag="943015039" Tag="284" IconVisible="False" LeftMargin="-86.9811" RightMargin="581.9811" TopMargin="799.1929" BottomMargin="166.8072" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_4" ActionTag="943015039" Tag="284" IconVisible="False" LeftMargin="-86.9811" RightMargin="581.9811" TopMargin="799.1928" BottomMargin="166.8072" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-14.4811" Y="251.8072" />
@@ -246,7 +246,7 @@
             <PreSize X="0.0734" Y="0.0290" />
             <FileData Type="Normal" Path="assets/map/map_decoration_grass_0001.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_57" ActionTag="-1174624218" Tag="297" RotationSkewX="270.0000" RotationSkewY="270.0000" IconVisible="False" LeftMargin="6.7482" RightMargin="586.2518" TopMargin="765.9302" BottomMargin="337.0699" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="17" Scale9Height="13" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_57" ActionTag="-1174624218" Tag="297" RotationSkewX="270.0000" RotationSkewY="270.0000" IconVisible="False" LeftMargin="6.7482" RightMargin="586.2518" TopMargin="765.9301" BottomMargin="337.0699" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="17" Scale9Height="13" ctype="ImageViewObjectData">
             <Size X="47.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="30.2482" Y="353.5699" />
@@ -285,6 +285,28 @@
             <PrePosition X="0.3125" Y="1.0296" />
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="assets/map/map_decoration_tree_0004.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="player_house" ActionTag="-490668998" Tag="958" IconVisible="False" LeftMargin="501.1838" RightMargin="26.8162" TopMargin="797.6454" BottomMargin="204.3546" ctype="SpriteObjectData">
+            <Size X="112.0000" Y="134.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="557.1838" Y="271.3546" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8706" Y="0.2389" />
+            <PreSize X="0.1750" Y="0.1180" />
+            <FileData Type="Normal" Path="assets/map/map_house.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="opponent_house" ActionTag="-2042719896" Tag="959" IconVisible="False" LeftMargin="33.6025" RightMargin="494.3975" TopMargin="0.8032" BottomMargin="1001.1968" ctype="SpriteObjectData">
+            <Size X="112.0000" Y="134.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="89.6025" Y="1068.1968" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1400" Y="0.9403" />
+            <PreSize X="0.1750" Y="0.1180" />
+            <FileData Type="Normal" Path="assets/map/map_house.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
