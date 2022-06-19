@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="13" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Button_1" ActionTag="-1959173261" Tag="139" IconVisible="False" LeftMargin="-97.0000" RightMargin="-97.0000" TopMargin="-55.5000" BottomMargin="-55.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="164" Scale9Height="89" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="backgroundBtn" ActionTag="-1959173261" Tag="139" IconVisible="False" LeftMargin="-97.0000" RightMargin="-97.0000" TopMargin="-55.5000" BottomMargin="-55.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="164" Scale9Height="89" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="194.0000" Y="111.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -21,7 +21,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_4" ActionTag="-429960077" Tag="136" IconVisible="False" LeftMargin="-14.1170" RightMargin="-45.8830" TopMargin="-13.5000" BottomMargin="-13.5000" FontSize="20" LabelText="600" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="priceTxt" ActionTag="-429960077" Tag="136" IconVisible="False" LeftMargin="-14.1170" RightMargin="-45.8830" TopMargin="-13.5000" BottomMargin="-13.5000" FontSize="20" LabelText="600" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="60.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="15.8830" />
@@ -33,7 +33,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="1587929737" Tag="137" IconVisible="False" LeftMargin="-59.4990" RightMargin="-0.5010" TopMargin="-32.0000" BottomMargin="-32.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="unitIconImg" ActionTag="1587929737" Tag="137" IconVisible="False" LeftMargin="-59.4990" RightMargin="-0.5010" TopMargin="-32.0000" BottomMargin="-32.0000" ctype="SpriteObjectData">
             <Size X="60.0000" Y="64.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-29.4990" />

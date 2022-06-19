@@ -37,36 +37,6 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/shop/shopCategory.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_6" ActionTag="-363908380" Tag="213" IconVisible="True" LeftMargin="-185.6969" RightMargin="185.6969" TopMargin="10.5355" BottomMargin="-10.5355" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="-185.6969" Y="-10.5355" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/shop/shopItemSlot.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_7" ActionTag="1542536379" Tag="227" IconVisible="True" LeftMargin="0.0001" RightMargin="-0.0001" TopMargin="9.2190" BottomMargin="-9.2190" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="0.0001" Y="-9.2190" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/shop/shopItemSlot.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_8" ActionTag="-140439845" Tag="241" IconVisible="True" LeftMargin="184.3817" RightMargin="-184.3817" TopMargin="10.5355" BottomMargin="-10.5355" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="184.3817" Y="-10.5355" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/shop/shopItemSlot.csd" Plist="" />
-          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>

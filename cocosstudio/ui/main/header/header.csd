@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="82" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="lobbyCurrencyBackground" ActionTag="336011806" Tag="84" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-42.5000" BottomMargin="-42.5000" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="headerBackgroundImg" ActionTag="336011806" Tag="84" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-42.5000" BottomMargin="-42.5000" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="85.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -58,17 +58,6 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="assets/common/common_icon_gold_small.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="gemTopUpBtn" ActionTag="-1403151985" Tag="112" IconVisible="False" LeftMargin="135.6300" RightMargin="-173.6300" TopMargin="-30.4600" BottomMargin="-9.5400" ctype="SpriteObjectData">
-            <Size X="38.0000" Y="40.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="154.6300" Y="10.4600" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_currency_btn_top_up.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldTxt" ActionTag="-1666873092" Tag="240" IconVisible="False" LeftMargin="-150.6670" RightMargin="31.6670" TopMargin="-23.9541" BottomMargin="-3.0459" FontSize="20" LabelText="923.000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">

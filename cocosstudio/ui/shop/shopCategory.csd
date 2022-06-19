@@ -6,10 +6,10 @@
       <ObjectData Name="Node" Tag="169" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_2" ActionTag="1185924230" Tag="171" IconVisible="False" LeftMargin="-304.0000" RightMargin="-304.0000" TopMargin="-51.0000" BottomMargin="-51.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="categoryBackgroundImg" ActionTag="1185924230" Tag="171" IconVisible="False" LeftMargin="-304.0000" RightMargin="-304.0000" TopMargin="-51.0000" BottomMargin="-51.0000" ctype="SpriteObjectData">
             <Size X="608.0000" Y="102.0000" />
             <Children>
-              <AbstractNodeData Name="Sprite_1" ActionTag="1103964567" Tag="172" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="96.0000" RightMargin="96.0000" TopMargin="26.5000" BottomMargin="24.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="categoryTitleImg" ActionTag="1103964567" Tag="172" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="96.0000" RightMargin="96.0000" TopMargin="26.5000" BottomMargin="24.5000" ctype="SpriteObjectData">
                 <Size X="416.0000" Y="51.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="304.0000" Y="50.0000" />

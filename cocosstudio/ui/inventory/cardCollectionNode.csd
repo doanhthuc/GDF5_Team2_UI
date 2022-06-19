@@ -57,16 +57,6 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="assets/lobby/lobby_card_banner.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_2" ActionTag="-1610960661" Tag="245" IconVisible="True" LeftMargin="-231.0000" RightMargin="231.0000" TopMargin="164.0000" BottomMargin="-164.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="-231.0000" Y="-164.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
-          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>

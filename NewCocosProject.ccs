@@ -189,9 +189,10 @@
           <Folder Name="inventory">
             <Project Name="battleDeckHolder.csd" Type="Node" />
             <Project Name="card.csd" Type="Node" />
+            <Project Name="cardCollectionNode.csd" Type="Node" />
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
-            <Project Name="cardCollectionNode.csd" Type="Node" />
+            <Project Name="cardImageNode.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
@@ -224,11 +225,17 @@
           </Folder>
           <Folder Name="shop">
             <Project Name="costButton.csd" Type="Node" />
+            <Project Name="freeButton.csd" Type="Node" />
             <Project Name="refershShopNode.csd" Type="Node" />
             <Project Name="shopCardItem.csd" Type="Node" />
             <Project Name="shopCategory.csd" Type="Node" />
+            <Project Name="shopGoldItem.csd" Type="Node" />
+            <Project Name="shopGoldSlot.csd" Type="Node" />
             <Project Name="shopItemSlot.csd" Type="Node" />
             <Project Name="shopSection.csd" Type="Node" />
+            <Project Name="shopTreasureSlot.csd" Type="Node" />
+            <Project Name="shopCarPopUp.csd" Type="Node" />
+            <Project Name="shopGoldPopUp.csd" Type="Node" />
           </Folder>
         </Folder>
       </RootFolder>
