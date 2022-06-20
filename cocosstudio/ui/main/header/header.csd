@@ -60,7 +60,7 @@
             <FileData Type="Normal" Path="assets/common/common_icon_gold_small.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="goldTxt" ActionTag="-1666873092" Tag="240" IconVisible="False" LeftMargin="-150.6670" RightMargin="31.6670" TopMargin="-23.9541" BottomMargin="-3.0459" FontSize="20" LabelText="923.000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="goldTxt" ActionTag="-1666873092" Tag="240" IconVisible="False" LeftMargin="-150.6670" RightMargin="31.6670" TopMargin="-23.9541" BottomMargin="-3.0459" FontSize="20" LabelText="923.000" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="119.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-91.1670" Y="10.4541" />
@@ -72,7 +72,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="gemTxt" ActionTag="303207535" Tag="242" IconVisible="False" LeftMargin="48.0394" RightMargin="-138.0394" TopMargin="-23.8308" BottomMargin="-3.1692" FontSize="20" LabelText="25.337" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="gemTxt" ActionTag="303207535" Tag="242" IconVisible="False" LeftMargin="48.0394" RightMargin="-138.0394" TopMargin="-23.8308" BottomMargin="-3.1692" FontSize="20" LabelText="25.337" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="90.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="93.0394" Y="10.3308" />

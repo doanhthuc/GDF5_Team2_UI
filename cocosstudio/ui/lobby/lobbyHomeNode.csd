@@ -37,16 +37,6 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/lobby/battleBtn.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="treasureHolder" ActionTag="667195930" VisibleForFrame="False" Tag="552" IconVisible="True" LeftMargin="0.0034" RightMargin="-0.0034" TopMargin="346.0609" BottomMargin="-346.0609" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="0.0034" Y="-346.0609" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureHolders.csd" Plist="" />
-          </AbstractNodeData>
           <AbstractNodeData Name="Particle_1" ActionTag="-1248637283" Tag="1666" IconVisible="True" TopMargin="-72.9995" BottomMargin="72.9995" ctype="ParticleObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />

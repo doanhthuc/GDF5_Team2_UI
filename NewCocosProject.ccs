@@ -190,9 +190,9 @@
             <Project Name="battleDeckHolder.csd" Type="Node" />
             <Project Name="card.csd" Type="Node" />
             <Project Name="cardCollectionNode.csd" Type="Node" />
+            <Project Name="cardImageNode.csd" Type="Node" />
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
-            <Project Name="cardImageNode.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
@@ -205,12 +205,11 @@
                 <Project Name="finishedSlot.csd" Type="Node" />
                 <Project Name="occupiedSlot.csd" Type="Node" />
               </Folder>
-              <Project Name="treasureHolders.csd" Type="Node" />
             </Folder>
             <Project Name="battleBtn.csd" Type="Node" />
             <Project Name="lobbyHomeNode.csd" Type="Node" />
             <Project Name="playerInfoHolder.csd" Type="Node" />
-            <Project Name="treasurePopUp.csd" Type="Node" />
+            <Project Name="treasurePopup.csd" Type="Node" />
           </Folder>
           <Folder Name="main">
             <Folder Name="bottom">
@@ -228,14 +227,14 @@
             <Project Name="freeButton.csd" Type="Node" />
             <Project Name="refershShopNode.csd" Type="Node" />
             <Project Name="shopCardItem.csd" Type="Node" />
+            <Project Name="shopCardPopup.csd" Type="Node" />
             <Project Name="shopCategory.csd" Type="Node" />
             <Project Name="shopGoldItem.csd" Type="Node" />
+            <Project Name="shopGoldPopup.csd" Type="Node" />
             <Project Name="shopGoldSlot.csd" Type="Node" />
             <Project Name="shopItemSlot.csd" Type="Node" />
             <Project Name="shopSection.csd" Type="Node" />
             <Project Name="shopTreasureSlot.csd" Type="Node" />
-            <Project Name="shopCarPopUp.csd" Type="Node" />
-            <Project Name="shopGoldPopUp.csd" Type="Node" />
           </Folder>
         </Folder>
       </RootFolder>

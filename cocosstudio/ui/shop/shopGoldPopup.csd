@@ -9,7 +9,7 @@
           <AbstractNodeData Name="blur" ActionTag="-1543412065" Alpha="204" Tag="200" IconVisible="False" LeftMargin="-319.0585" RightMargin="-320.9415" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="0.9415" Y="0.0000" />
+            <Position X="0.9415" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="0" G="0" B="0" />
             <PrePosition />
@@ -25,6 +25,17 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="assets/common/common_panel_background.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Sprite_16" ActionTag="1458734514" Tag="204" IconVisible="False" LeftMargin="-78.5000" RightMargin="-78.5000" TopMargin="-108.9038" BottomMargin="-93.0962" ctype="SpriteObjectData">
+            <Size X="157.0000" Y="202.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="7.9038" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="assets/lobby/lobby_shop_item_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_15" ActionTag="535227229" Tag="185" IconVisible="False" LeftMargin="-46.5584" RightMargin="-48.4416" TopMargin="41.5162" BottomMargin="-76.5162" FontSize="24" LabelText="1.000" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -54,8 +65,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cardNameTxt" ActionTag="-1032990539" Tag="198" IconVisible="False" LeftMargin="-58.0000" RightMargin="-58.0000" TopMargin="-173.6880" BottomMargin="144.6880" FontSize="20" LabelText="Pháo Cú" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="116.0000" Y="29.0000" />
+          <AbstractNodeData Name="popUpTitleTxt" ActionTag="-1032990539" Tag="198" IconVisible="False" LeftMargin="-69.5000" RightMargin="-69.5000" TopMargin="-173.6880" BottomMargin="144.6880" FontSize="20" LabelText="Mua Vàng" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="139.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="159.1880" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -75,6 +86,17 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/shop/costButton.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Sprite_15" ActionTag="-605898278" Tag="203" IconVisible="False" LeftMargin="-22.9999" RightMargin="-23.0001" TopMargin="-57.4809" BottomMargin="11.4809" ctype="SpriteObjectData">
+            <Size X="88.0000" Y="108.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="0.0001" Y="34.4809" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="assets/common/common_icon_gold.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

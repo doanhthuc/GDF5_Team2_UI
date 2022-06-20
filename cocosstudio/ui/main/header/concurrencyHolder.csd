@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="concurencyHolder" Type="Node" ID="636958ef-5313-44a5-8b4d-aa4809c5a2e8" Version="3.10.0.0" />
+  <PropertyGroup Name="concurrencyHolder" Type="Node" ID="636958ef-5313-44a5-8b4d-aa4809c5a2e8" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -17,7 +17,7 @@
             <FileData Type="Normal" Path="assets/lobby/lobby_box.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="concurencyTxt" ActionTag="1980398218" Tag="260" IconVisible="False" LeftMargin="-37.8406" RightMargin="-52.1594" TopMargin="-14.0161" BottomMargin="-12.9839" FontSize="20" LabelText="25.337" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="concurencyTxt" ActionTag="1980398218" Tag="260" IconVisible="False" LeftMargin="-37.8406" RightMargin="-52.1594" TopMargin="-14.0161" BottomMargin="-12.9839" FontSize="20" LabelText="25.337" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="90.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="7.1594" Y="0.5161" />
