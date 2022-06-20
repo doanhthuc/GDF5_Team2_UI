@@ -6342,6 +6342,7 @@
               <Project Name="BattleUILayer.csd" Type="Layer" />
             </Folder>
             <Project Name="BattleScene.csd" Type="Scene" />
+            <Project Name="HpBarNode.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
