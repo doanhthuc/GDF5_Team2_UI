@@ -6318,18 +6318,20 @@
               <Project Name="BattleRiver.csd" Type="Node" />
             </Folder>
             <Folder Name="battle_ui_layer">
+              <Folder Name="avatar">
+                <Project Name="AvatarNode.csd" Type="Node" />
+              </Folder>
               <Folder Name="card">
-                <Project Name="BattleCardNode.csd" Type="Node" />
                 <Project Name="BattleCardDeckNode.csd" Type="Node" />
+                <Project Name="BattleCardNode.csd" Type="Node" />
                 <Project Name="CardEnergyNode.csd" Type="Node" />
                 <Project Name="EnergyProgressNode.csd" Type="Node" />
               </Folder>
+              <Folder Name="energy">
+                <Project Name="BattleEnergy.csd" Type="Node" />
+              </Folder>
               <Folder Name="timer">
                 <Project Name="BattleTimerNode.csd" Type="Node" />
-              </Folder>
-              <Project Name="BattleUILayer.csd" Type="Layer" />
-              <Folder Name="avatar">
-                <Project Name="AvatarNode.csd" Type="Node" />
               </Folder>
               <Folder Name="tropy">
                 <Project Name="TrophyNode.csd" Type="Node" />
@@ -6337,9 +6339,7 @@
               <Folder Name="wave">
                 <Project Name="WaveNode.csd" Type="Node" />
               </Folder>
-              <Folder Name="energy">
-                <Project Name="BattleEnergy.csd" Type="Node" />
-              </Folder>
+              <Project Name="BattleUILayer.csd" Type="Layer" />
             </Folder>
             <Project Name="BattleScene.csd" Type="Scene" />
           </Folder>
