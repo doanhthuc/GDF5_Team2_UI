@@ -48,8 +48,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="clan_name" ActionTag="150169027" Tag="642" IconVisible="False" LeftMargin="-59.5455" RightMargin="-101.4545" TopMargin="4.2317" BottomMargin="-26.2317" FontSize="16" LabelText="GDF_5_team_2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="161.0000" Y="22.0000" />
+          <AbstractNodeData Name="clan_name" ActionTag="150169027" Tag="642" IconVisible="False" LeftMargin="-54.5455" RightMargin="-96.4545" TopMargin="4.2317" BottomMargin="-26.2317" FontSize="16" LabelText="GDF5_team_2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="151.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="20.9545" Y="-15.2317" />
             <Scale ScaleX="0.8832" ScaleY="0.8832" />
