@@ -60,7 +60,7 @@
             <FileData Type="Normal" Path="assets/common/common_icon_trophy.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="userTrophyTxt" ActionTag="-2016497887" Tag="309" IconVisible="False" LeftMargin="175.8104" RightMargin="-260.8104" TopMargin="-24.0819" BottomMargin="-0.9181" FontSize="18" LabelText="93.774" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="userTrophyTxt" ActionTag="-2016497887" Tag="309" IconVisible="False" LeftMargin="175.8104" RightMargin="-260.8104" TopMargin="-24.0819" BottomMargin="-0.9181" FontSize="18" LabelText="93.774" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="85.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="218.3104" Y="11.5819" />

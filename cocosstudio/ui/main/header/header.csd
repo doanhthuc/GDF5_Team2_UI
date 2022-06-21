@@ -64,7 +64,7 @@
             <Size X="119.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-91.1670" Y="10.4541" />
-            <Scale ScaleX="0.6584" ScaleY="0.8710" />
+            <Scale ScaleX="0.7617" ScaleY="0.8710" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -72,10 +72,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="gemTxt" ActionTag="303207535" Tag="242" IconVisible="False" LeftMargin="48.0394" RightMargin="-138.0394" TopMargin="-23.8308" BottomMargin="-3.1692" FontSize="20" LabelText="25.337" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="gemTxt" ActionTag="303207535" Tag="242" IconVisible="False" LeftMargin="46.0071" RightMargin="-136.0071" TopMargin="-23.3589" BottomMargin="-3.6411" FontSize="20" LabelText="25.337" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="90.0000" Y="27.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="93.0394" Y="10.3308" />
+            <AnchorPoint ScaleX="0.5948" ScaleY="0.6355" />
+            <Position X="99.5353" Y="13.5171" />
             <Scale ScaleX="0.7617" ScaleY="0.8710" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

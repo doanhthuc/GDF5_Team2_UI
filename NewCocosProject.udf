@@ -28,5 +28,17 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="ui/lobby/treasurePopup.csd" />
+          <FilePathData Path="ui/lobby/lobbyHomeNode.csd" />
+          <FilePathData Path="ui/lobby/playerInfoHolder.csd" />
+          <FilePathData Path="ui/main/header/concurrencyHolder.csd" />
+          <FilePathData Path="ui/main/header/header.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="ui/main/header/header.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
