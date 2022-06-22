@@ -368,48 +368,6 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "ui/main/bottom/bottomNav.json",
-              "Plist": ""
-            },
-            "StretchWidthEnable": false,
-            "StretchHeightEnable": false,
-            "InnerActionSpeed": 1.0,
-            "AnchorPoint": {},
-            "Position": {
-              "X": 320.0,
-              "Y": 0.0
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": true,
-            "PositionPercentXEnabled": true,
-            "PrePosition": {
-              "X": 0.5,
-              "Y": 0.0
-            },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "LeftMargin": 320.0,
-            "RightMargin": 320.0,
-            "TopMargin": 1136.0,
-            "Tag": 57,
-            "ActionTag": 2128432903,
-            "Size": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "VisibleForFrame": false,
-            "Name": "bottomNav",
-            "ctype": "ProjectNodeObjectData"
-          },
-          {
-            "FileData": {
-              "Type": "Normal",
               "Path": "ui/main/header/header.json",
               "Plist": ""
             },
@@ -458,7 +416,6 @@
       },
       "UsedResources": [
         "../../assets/lobby/lobby_background.png",
-        "bottom/bottomNav.json",
         "header/header.json"
       ],
       "ctype": "GameFileData"

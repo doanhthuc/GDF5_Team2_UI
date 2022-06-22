@@ -9,13 +9,13 @@
           <AbstractNodeData Name="Sprite_1" ActionTag="1683091966" Tag="67" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-63.0000" RightMargin="-63.0000" TopMargin="-16.4552" BottomMargin="-13.5448" ctype="SpriteObjectData">
             <Size X="126.0000" Y="30.0000" />
             <Children>
-              <AbstractNodeData Name="Sprite_2" ActionTag="1522031149" Tag="68" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="3.0000" RightMargin="3.0000" TopMargin="2.7298" BottomMargin="3.2702" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Sprite_2" ActionTag="1522031149" Tag="68" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="3.0000" RightMargin="3.0000" TopMargin="2.7300" BottomMargin="3.2700" ctype="SpriteObjectData">
                 <Size X="120.0000" Y="24.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_3" ActionTag="1748909294" Tag="69" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="31.0000" RightMargin="0.0000" TopMargin="-0.4073" BottomMargin="0.4073" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_3" ActionTag="1748909294" Tag="69" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="31.0000" TopMargin="-0.4080" BottomMargin="0.4080" ctype="SpriteObjectData">
                     <Size X="89.0000" Y="24.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="120.0000" Y="12.4073" />
+                    <Position X="120.0000" Y="12.4080" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="1.0000" Y="0.5170" />
@@ -25,7 +25,7 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="3.0000" Y="15.2702" />
+                <Position X="3.0000" Y="15.2700" />
                 <Scale ScaleX="0.5900" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0238" Y="0.5090" />

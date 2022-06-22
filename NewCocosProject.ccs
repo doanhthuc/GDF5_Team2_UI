@@ -193,6 +193,8 @@
             <Project Name="cardImageNode.csd" Type="Node" />
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
+            <Project Name="cardEnergyNode.csd" Type="Node" />
+            <Project Name="cardDetailPopup.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
@@ -213,7 +215,6 @@
           </Folder>
           <Folder Name="main">
             <Folder Name="bottom">
-              <Project Name="bottomNav.csd" Type="Node" />
               <Project Name="navTab.csd" Type="Node" />
             </Folder>
             <Folder Name="header">

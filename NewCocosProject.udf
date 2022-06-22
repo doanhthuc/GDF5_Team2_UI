@@ -32,12 +32,9 @@
       <Value ctype="TabsInfo">
         <OpenedDocuments>
           <FilePathData Path="ui/lobby/treasurePopup.csd" />
-          <FilePathData Path="ui/lobby/lobbyHomeNode.csd" />
-          <FilePathData Path="ui/lobby/playerInfoHolder.csd" />
-          <FilePathData Path="ui/main/header/concurrencyHolder.csd" />
-          <FilePathData Path="ui/main/header/header.csd" />
+          <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/main/header/header.csd" />
+        <ActiveDocument Path="ui/inventory/cardDetailPopup.csd" />
       </Value>
     </Item>
   </Properties>
