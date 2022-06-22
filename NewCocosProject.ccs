@@ -5,7 +5,9 @@
       <RootFolder Name=".">
         <Folder Name="assets">
           <Folder Name="card">
-            <Folder Name="stat_icon" />
+            <Folder Name="stat_icon">
+              <Image Name="stat_icon_damage.png" />
+            </Folder>
             <Image Name="card_background_1.png" />
             <Image Name="card_background_2.png" />
             <Image Name="card_background_3.png" />
@@ -190,11 +192,17 @@
             <Project Name="battleDeckHolder.csd" Type="Node" />
             <Project Name="card.csd" Type="Node" />
             <Project Name="cardCollectionNode.csd" Type="Node" />
+            <Project Name="cardDetailPopup.csd" Type="Node" />
+            <Project Name="cardEnergyNode.csd" Type="Node" />
             <Project Name="cardImageNode.csd" Type="Node" />
+            <Project Name="cardStatHolder.csd" Type="Node" />
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
-            <Project Name="cardEnergyNode.csd" Type="Node" />
-            <Project Name="cardDetailPopup.csd" Type="Node" />
+            <Folder Name="button">
+              <Project Name="selectBtn.csd" Type="Node" />
+              <Project Name="skillBtn.csd" Type="Node" />
+              <Project Name="UpgradeBtn.csd" Type="Node" />
+            </Folder>
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">

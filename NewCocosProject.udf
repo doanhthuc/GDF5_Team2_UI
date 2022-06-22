@@ -31,8 +31,12 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="ui/lobby/treasurePopup.csd" />
           <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
+          <FilePathData Path="ui/inventory/button/selectBtn.csd" />
+          <FilePathData Path="ui/inventory/button/skillBtn.csd" />
+          <FilePathData Path="ui/inventory/button/UpgradeBtn.csd" />
+          <FilePathData Path="ui/inventory/cardStatHolder.csd" />
+          <FilePathData Path="ui/inventory/cardCollectionNode.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="ui/inventory/cardDetailPopup.csd" />
       </Value>
