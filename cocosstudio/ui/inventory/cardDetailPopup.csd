@@ -19,57 +19,17 @@
           <AbstractNodeData Name="backgroundImg" ActionTag="-36862881" Tag="107" IconVisible="False" LeftMargin="-310.0000" RightMargin="-310.0000" TopMargin="-324.6342" BottomMargin="-475.3658" LeftEage="149" RightEage="149" TopEage="129" BottomEage="129" Scale9OriginX="149" Scale9OriginY="129" Scale9Width="155" Scale9Height="135" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="800.0000" />
             <Children>
-              <AbstractNodeData Name="FileNode_3" ActionTag="-1392324686" Tag="238" IconVisible="True" LeftMargin="286.9396" RightMargin="333.0604" TopMargin="132.5471" BottomMargin="667.4529" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="cardNode" ActionTag="-558480636" Tag="216" IconVisible="True" LeftMargin="118.3100" RightMargin="501.6900" TopMargin="160.8900" BottomMargin="639.1100" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="286.9396" Y="667.4529" />
-                <Scale ScaleX="0.7000" ScaleY="0.7000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4628" Y="0.8343" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="ui/inventory/cardStatHolder.csd" Plist="" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_3_0" ActionTag="-1383208241" Tag="262" IconVisible="True" LeftMargin="285.4592" RightMargin="334.5408" TopMargin="184.6194" BottomMargin="615.3806" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                <Size X="0.0000" Y="0.0000" />
-                <AnchorPoint />
-                <Position X="285.4592" Y="615.3806" />
-                <Scale ScaleX="0.7000" ScaleY="0.7000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4604" Y="0.7692" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="ui/inventory/cardStatHolder.csd" Plist="" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_3_1" ActionTag="1936130431" Tag="268" IconVisible="True" LeftMargin="284.0735" RightMargin="335.9265" TopMargin="240.1769" BottomMargin="559.8231" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                <Size X="0.0000" Y="0.0000" />
-                <AnchorPoint />
-                <Position X="284.0735" Y="559.8231" />
-                <Scale ScaleX="0.7000" ScaleY="0.7000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4582" Y="0.6998" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="ui/inventory/cardStatHolder.csd" Plist="" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_3_2" ActionTag="893900858" Tag="274" IconVisible="True" LeftMargin="470.0151" RightMargin="149.9849" TopMargin="132.8188" BottomMargin="667.1812" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                <Size X="0.0000" Y="0.0000" />
-                <AnchorPoint />
-                <Position X="470.0151" Y="667.1812" />
-                <Scale ScaleX="0.7000" ScaleY="0.7000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7581" Y="0.8340" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="ui/inventory/cardStatHolder.csd" Plist="" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="cardNode" ActionTag="-558480636" Tag="216" IconVisible="True" LeftMargin="118.3072" RightMargin="501.6928" TopMargin="160.8928" BottomMargin="639.1072" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                <Size X="0.0000" Y="0.0000" />
-                <AnchorPoint />
-                <Position X="118.3072" Y="639.1072" />
+                <Position X="118.3100" Y="639.1100" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1908" Y="0.7989" />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" LeftMargin="276.1722" RightMargin="227.8278" TopMargin="44.9200" BottomMargin="726.0800" FontSize="20" LabelText="Pháo Cú" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" LeftMargin="276.1670" RightMargin="227.8330" TopMargin="44.9212" BottomMargin="726.0788" FontSize="20" LabelText="Pháo Cú" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="116.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.4887" ScaleY="0.4644" />
                 <Position X="332.8562" Y="739.5464" />

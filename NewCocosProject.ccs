@@ -189,6 +189,11 @@
         </Folder>
         <Folder Name="ui">
           <Folder Name="inventory">
+            <Folder Name="button">
+              <Project Name="selectBtn.csd" Type="Node" />
+              <Project Name="skillBtn.csd" Type="Node" />
+              <Project Name="UpgradeBtn.csd" Type="Node" />
+            </Folder>
             <Project Name="battleDeckHolder.csd" Type="Node" />
             <Project Name="card.csd" Type="Node" />
             <Project Name="cardCollectionNode.csd" Type="Node" />
@@ -198,11 +203,6 @@
             <Project Name="cardStatHolder.csd" Type="Node" />
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
-            <Folder Name="button">
-              <Project Name="selectBtn.csd" Type="Node" />
-              <Project Name="skillBtn.csd" Type="Node" />
-              <Project Name="UpgradeBtn.csd" Type="Node" />
-            </Folder>
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
