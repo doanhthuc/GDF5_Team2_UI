@@ -36,8 +36,10 @@
           <FilePathData Path="ui/inventory/button/UpgradeBtn.csd" />
           <FilePathData Path="ui/inventory/cardCollectionNode.csd" />
           <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
+          <FilePathData Path="ui/inventory/card.csd" />
+          <FilePathData Path="ui/inventory/cardUpgradeProgress.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/inventory/cardDetailPopup.csd" />
+        <ActiveDocument Path="ui/inventory/cardUpgradeProgress.csd" />
       </Value>
     </Item>
   </Properties>
