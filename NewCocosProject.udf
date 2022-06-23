@@ -31,13 +31,13 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
           <FilePathData Path="ui/inventory/button/selectBtn.csd" />
           <FilePathData Path="ui/inventory/button/skillBtn.csd" />
           <FilePathData Path="ui/inventory/button/UpgradeBtn.csd" />
           <FilePathData Path="ui/inventory/cardCollectionNode.csd" />
+          <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/inventory/button/UpgradeBtn.csd" />
+        <ActiveDocument Path="ui/inventory/cardDetailPopup.csd" />
       </Value>
     </Item>
   </Properties>

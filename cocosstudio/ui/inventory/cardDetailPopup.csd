@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="165" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="blur" ActionTag="296423708" Alpha="202" Tag="660" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="blur" ActionTag="296423708" Alpha="202" Tag="660" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -19,17 +19,7 @@
           <AbstractNodeData Name="backgroundImg" ActionTag="-36862881" Tag="107" IconVisible="False" LeftMargin="-310.0000" RightMargin="-310.0000" TopMargin="-324.6342" BottomMargin="-475.3658" LeftEage="149" RightEage="149" TopEage="129" BottomEage="129" Scale9OriginX="149" Scale9OriginY="129" Scale9Width="155" Scale9Height="135" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="800.0000" />
             <Children>
-              <AbstractNodeData Name="cardNode" ActionTag="-558480636" Tag="216" IconVisible="True" LeftMargin="118.3100" RightMargin="501.6900" TopMargin="160.8900" BottomMargin="639.1100" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                <Size X="0.0000" Y="0.0000" />
-                <AnchorPoint />
-                <Position X="118.3100" Y="639.1100" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1908" Y="0.7989" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="ui/inventory/card.csd" Plist="" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" LeftMargin="276.1670" RightMargin="227.8330" TopMargin="44.9212" BottomMargin="726.0788" FontSize="20" LabelText="Pháo Cú" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" LeftMargin="276.1670" RightMargin="227.8330" TopMargin="44.9212" BottomMargin="726.0788" FontSize="20" LabelText="Pháo Cú" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="116.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.4887" ScaleY="0.4644" />
                 <Position X="332.8562" Y="739.5464" />
@@ -56,7 +46,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="upgradeLevelTxt" ActionTag="-276847914" Tag="207" IconVisible="False" LeftMargin="291.9916" RightMargin="227.0084" TopMargin="68.9971" BottomMargin="703.0029" FontSize="20" LabelText="Tiến hoá 1" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="upgradeLevelTxt" ActionTag="-276847914" Tag="207" IconVisible="False" LeftMargin="291.9916" RightMargin="227.0084" TopMargin="68.9971" BottomMargin="703.0029" FontSize="20" LabelText="Tiến hoá 1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="101.0000" Y="28.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="342.4916" Y="717.0029" />
@@ -133,6 +123,17 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="ui/inventory/button/skillBtn.csd" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="196.9554" RightMargin="235.0446" TopMargin="-183.7798" BottomMargin="765.7798" ctype="SpriteObjectData">
+                <Size X="188.0000" Y="218.0000" />
+                <AnchorPoint ScaleX="0.6013" ScaleY="0.4413" />
+                <Position X="309.9998" Y="861.9827" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="1.0775" />
+                <PreSize X="0.3032" Y="0.2725" />
+                <FileData Type="Normal" Path="assets/card/miniature_tower_cannon_1.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="-75.3658" />
@@ -141,17 +142,6 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="assets/common/common_panel_background.png" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_36" ActionTag="250663107" Tag="620" IconVisible="False" LeftMargin="-93.9998" RightMargin="-94.0002" TopMargin="-499.7498" BottomMargin="281.7498" ctype="SpriteObjectData">
-            <Size X="188.0000" Y="218.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="0.0002" Y="390.7498" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/card/miniature_tower_cannon_1.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
