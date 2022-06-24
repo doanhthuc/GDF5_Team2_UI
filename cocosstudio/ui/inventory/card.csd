@@ -44,7 +44,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/card/card_level.png" Plist="" />
+            <FileData Type="Normal" Path="textures/card/card_level.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="levelTxt" ActionTag="-286507780" Tag="130" IconVisible="False" LeftMargin="-28.5000" RightMargin="-28.5000" TopMargin="46.5000" BottomMargin="-67.5000" FontSize="14" LabelText="Lv.20" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -55,7 +55,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_home_treasure_opening_time.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_home_treasure_opening_time.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="countdownTxt" ActionTag="-228975168" Tag="196" IconVisible="False" LeftMargin="-39.0000" RightMargin="-39.0000" TopMargin="-12.1289" BottomMargin="-8.8711" FontSize="14" LabelText="15h 32m" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="78.0000" Y="21.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="61" G="61" B="61" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="143" G="151" B="163" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -36,7 +36,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_stat_icon_time.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_stat_icon_time.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

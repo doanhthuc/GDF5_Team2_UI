@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5000" />
                 <PreSize X="0.8551" Y="0.8817" />
-                <FileData Type="Normal" Path="assets/card/card_background_1.png" Plist="" />
+                <FileData Type="Normal" Path="textures/card/card_background_1.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="cardImg" ActionTag="1463167838" Tag="162" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="10.0000" RightMargin="10.0000" TopMargin="11.0000" BottomMargin="11.0000" LeftEage="38" RightEage="38" TopEage="70" BottomEage="70" Scale9OriginX="38" Scale9OriginY="70" Scale9Width="42" Scale9Height="24" ctype="ImageViewObjectData">
                 <Size X="118.0000" Y="164.0000" />
@@ -27,7 +27,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5000" />
                 <PreSize X="0.8551" Y="0.8817" />
-                <FileData Type="Normal" Path="assets/card/card_tower_attack_speed.png" Plist="" />
+                <FileData Type="Normal" Path="textures/card/card_tower_attack_speed.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="cardQuantityTxt" ActionTag="1104952704" Tag="163" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="77.8000" RightMargin="-18.8000" TopMargin="147.4000" BottomMargin="-1.4000" FontSize="28" LabelText="x60" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="79.0000" Y="40.0000" />
@@ -37,7 +37,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.8500" Y="0.1000" />
                 <PreSize X="0.5725" Y="0.2151" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -48,7 +48,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/card/card_border_1.png" Plist="" />
+            <FileData Type="Normal" Path="textures/card/card_border_1.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

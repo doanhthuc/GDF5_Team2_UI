@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_card_banner.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_card_banner.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_21" ActionTag="-1985878906" Tag="201" IconVisible="False" LeftMargin="-266.8347" RightMargin="3.8347" TopMargin="-419.0700" BottomMargin="394.0700" FontSize="18" LabelText="BỘ SƯU TẬP THẺ BÀI" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="263.0000" Y="25.0000" />
@@ -34,7 +34,7 @@
             <CColor A="255" R="173" G="216" B="230" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -48,8 +48,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="assets/common/common_btn_blue.png" Plist="" />
-            <NormalFileData Type="Normal" Path="assets/common/common_btn_blue.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_btn_blue.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_btn_blue.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -61,7 +61,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

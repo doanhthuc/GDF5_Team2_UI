@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_category.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_shop_category.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="shopRefreshNode" ActionTag="557135834" Tag="177" IconVisible="True" TopMargin="-110.0001" BottomMargin="110.0001" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">

@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.5000" />
             <PreSize X="1.0000" Y="1.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_background.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="mainPageView" ActionTag="-345746020" Alpha="0" Tag="349" IconVisible="False" LeftMargin="0.0005" RightMargin="-0.0005" TopMargin="5.7715" BottomMargin="-5.7715" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ctype="PageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
@@ -99,16 +99,6 @@
             <FirstColor A="255" R="150" G="150" B="100" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="concurrencyHolder" ActionTag="-306060697" Tag="113" IconVisible="True" LeftMargin="320.0005" RightMargin="319.9995" TopMargin="44.6442" BottomMargin="1091.3558" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="320.0005" Y="1091.3558" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9607" />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/main/header/header.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="shopGoldPopUp" Type="Node" ID="b4607db1-f693-4d77-9f8f-84db8f90665b" Version="3.10.0.0" />
+  <PropertyGroup Name="shopGoldPopup" Type="Node" ID="b4607db1-f693-4d77-9f8f-84db8f90665b" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_panel_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_panel_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_16" ActionTag="1458734514" Tag="204" IconVisible="False" LeftMargin="-78.5000" RightMargin="-78.5000" TopMargin="-108.9038" BottomMargin="-93.0962" ctype="SpriteObjectData">
@@ -35,7 +35,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_item_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_shop_item_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_15" ActionTag="535227229" Tag="185" IconVisible="False" LeftMargin="-46.5584" RightMargin="-48.4416" TopMargin="41.5162" BottomMargin="-76.5162" FontSize="24" LabelText="1.000" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -46,7 +46,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -60,8 +60,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="assets/common/common_panel_btn_close.png" Plist="" />
-            <NormalFileData Type="Normal" Path="assets/common/common_panel_btn_close.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_panel_btn_close.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_panel_btn_close.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -73,7 +73,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="32" G="0" B="32" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -95,7 +95,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_icon_gold.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_icon_gold.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

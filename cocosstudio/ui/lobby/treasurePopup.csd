@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="treasurePopUp" Type="Node" ID="64ee7d40-a579-428a-93f7-9c062cefc8d6" Version="3.10.0.0" />
+  <PropertyGroup Name="treasurePopup" Type="Node" ID="64ee7d40-a579-428a-93f7-9c062cefc8d6" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_panel_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_panel_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="frontPanelImg" ActionTag="-1085443317" Tag="165" IconVisible="False" LeftMargin="-210.6125" RightMargin="-213.3875" TopMargin="-161.0000" BottomMargin="-181.0000" ctype="SpriteObjectData">
@@ -35,7 +35,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_panel_front.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_panel_front.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="pedestalImg" ActionTag="1707697302" Tag="166" IconVisible="False" LeftMargin="-169.0000" RightMargin="-169.0000" TopMargin="-286.0000" BottomMargin="114.0000" ctype="SpriteObjectData">
@@ -46,7 +46,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/treasure/common_treasure_pedestal.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_treasure_pedestal.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="closeBtn" ActionTag="-1556227719" Tag="167" IconVisible="False" LeftMargin="168.8990" RightMargin="-215.8990" TopMargin="-187.0652" BottomMargin="140.0652" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="17" Scale9Height="25" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -59,8 +59,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="assets/common/common_panel_btn_close.png" Plist="" />
-            <NormalFileData Type="Normal" Path="assets/common/common_panel_btn_close.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_panel_btn_close.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_panel_btn_close.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -72,7 +72,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_treasure.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_treasure.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="treasureNameTxt" ActionTag="1911365521" Tag="169" IconVisible="False" LeftMargin="-86.0000" RightMargin="-86.0000" TopMargin="-144.5000" BottomMargin="115.5000" FontSize="20" LabelText="Rương Vàng" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -83,7 +83,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="32" G="0" B="32" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -95,7 +95,7 @@
             <CColor A="255" R="162" G="209" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -110,7 +110,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.6306" />
                 <PreSize X="0.7526" Y="0.2613" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -123,8 +123,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="assets/common/common_btn_green.png" Plist="" />
-            <NormalFileData Type="Normal" Path="assets/common/common_btn_green.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_btn_green.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_btn_green.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -136,7 +136,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_box.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_box.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldIconImg" ActionTag="-642273067" Tag="231" IconVisible="False" LeftMargin="-190.4106" RightMargin="130.4106" TopMargin="-60.6166" BottomMargin="-3.3834" ctype="SpriteObjectData">
@@ -147,7 +147,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_icon_gold_small.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_icon_gold_small.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_5" ActionTag="942532263" Tag="232" IconVisible="False" LeftMargin="-142.9270" RightMargin="90.9270" TopMargin="-59.3138" BottomMargin="40.3138" FontSize="14" LabelText="Vàng" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -158,7 +158,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -170,7 +170,7 @@
             <CColor A="255" R="242" G="201" B="31" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="0" G="0" B="0" />
           </AbstractNodeData>
@@ -182,7 +182,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_box.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_box.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="goldIconImg_0" ActionTag="-1535409741" Tag="242" IconVisible="False" LeftMargin="-7.8307" RightMargin="-100.1693" TopMargin="-82.3361" BottomMargin="-23.6639" ctype="SpriteObjectData">
@@ -193,7 +193,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/treasure/common_icon_card_multiple.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_icon_card_multiple.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_5_0" ActionTag="-1042945410" Tag="243" IconVisible="False" LeftMargin="63.6532" RightMargin="-103.6532" TopMargin="-60.0335" BottomMargin="41.0335" FontSize="14" LabelText="Thẻ" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -204,7 +204,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -216,7 +216,7 @@
             <CColor A="255" R="105" G="177" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="0" G="0" B="0" />
           </AbstractNodeData>
@@ -239,7 +239,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/treasure/common_icon_card_multiple_2.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_icon_card_multiple_2.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_17_0" ActionTag="1185792760" Tag="248" IconVisible="False" LeftMargin="-17.3510" RightMargin="-90.6490" TopMargin="-10.6700" BottomMargin="-95.3300" ctype="SpriteObjectData">
@@ -250,7 +250,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/treasure/common_icon_card_multiple_1.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_icon_card_multiple_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_17_1" ActionTag="1792953415" Tag="249" IconVisible="False" LeftMargin="32.5310" RightMargin="-140.5310" TopMargin="-10.6700" BottomMargin="-95.3300" ctype="SpriteObjectData">
@@ -261,7 +261,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/treasure/common_icon_card_multiple_4.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_icon_card_multiple_4.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

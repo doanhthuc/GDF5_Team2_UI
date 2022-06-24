@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_category_refresh.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_shop_category_refresh.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="refreshTxt" ActionTag="-948433677" Tag="166" IconVisible="False" LeftMargin="-89.4999" RightMargin="-7.5001" TopMargin="-10.0000" BottomMargin="-10.0000" FontSize="14" LabelText="Làm mới sau: " ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -25,7 +25,7 @@
             <CColor A="255" R="169" G="167" B="167" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Avo bold.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -37,7 +37,7 @@
             <CColor A="255" R="80" G="182" B="80" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Avo bold.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

@@ -27,7 +27,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5369" Y="0.9244" />
                 <PreSize X="0.1871" Y="0.0362" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="26" G="26" B="26" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -41,8 +41,8 @@
                 <PreSize X="0.0758" Y="0.0587" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Normal" Path="assets/common/common_panel_btn_close.png" Plist="" />
-                <NormalFileData Type="Normal" Path="assets/common/common_panel_btn_close.png" Plist="" />
+                <PressedFileData Type="Normal" Path="textures/common/common_panel_btn_close.png" Plist="" />
+                <NormalFileData Type="Normal" Path="textures/common/common_panel_btn_close.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -54,7 +54,7 @@
                 <CColor A="255" R="69" G="222" B="251" />
                 <PrePosition X="0.5524" Y="0.8963" />
                 <PreSize X="0.1629" Y="0.0350" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Avo bold.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -66,7 +66,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4448" />
                 <PreSize X="0.6839" Y="0.4275" />
-                <FileData Type="Normal" Path="assets/common/common_panel_front.png" Plist="" />
+                <FileData Type="Normal" Path="textures/common/common_panel_front.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="Text_17" ActionTag="838816163" Tag="344" IconVisible="False" LeftMargin="155.4529" RightMargin="263.5471" TopMargin="612.3282" BottomMargin="159.6718" FontSize="20" LabelText="Nâng cấp thẻ nhận: " ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -77,7 +77,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4128" Y="0.2171" />
                 <PreSize X="0.3242" Y="0.0350" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Avo bold.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -89,7 +89,7 @@
                 <CColor A="255" R="69" G="222" B="251" />
                 <PrePosition X="0.6722" Y="0.2171" />
                 <PreSize X="0.1581" Y="0.0350" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Avo bold.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -131,7 +131,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="1.0775" />
                 <PreSize X="0.3032" Y="0.2725" />
-                <FileData Type="Normal" Path="assets/card/miniature_tower_cannon_1.png" Plist="" />
+                <FileData Type="Normal" Path="textures/card/miniature_tower_cannon_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -141,7 +141,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_panel_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_panel_background.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

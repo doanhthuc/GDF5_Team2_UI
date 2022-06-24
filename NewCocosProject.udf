@@ -28,19 +28,5 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="ui/inventory/button/selectBtn.csd" />
-          <FilePathData Path="ui/inventory/button/skillBtn.csd" />
-          <FilePathData Path="ui/inventory/button/UpgradeBtn.csd" />
-          <FilePathData Path="ui/inventory/cardCollectionNode.csd" />
-          <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
-          <FilePathData Path="ui/inventory/card.csd" />
-          <FilePathData Path="ui/inventory/cardUpgradeProgress.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="ui/inventory/cardUpgradeProgress.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

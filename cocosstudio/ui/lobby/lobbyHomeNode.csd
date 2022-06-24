@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_arena_forest.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_arena_forest.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="battleBtn" ActionTag="-732692632" Tag="548" IconVisible="True" LeftMargin="0.0034" RightMargin="-0.0034" TopMargin="162.8559" BottomMargin="-162.8559" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
@@ -45,7 +45,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/fx/arena_particle.plist" Plist="" />
+            <FileData Type="Normal" Path="textures/common/fx/arena_particle.plist" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
         </Children>

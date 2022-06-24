@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5000" />
                 <PreSize X="1.4013" Y="0.9950" />
-                <FileData Type="Normal" Path="assets/common/common_treasure.png" Plist="" />
+                <FileData Type="Normal" Path="textures/common/common_treasure.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="treasureNameTxt" ActionTag="979864167" Tag="106" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.5000" RightMargin="50.5000" TopMargin="26.9000" BottomMargin="148.1000" FontSize="20" LabelText="Bạc" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="56.0000" Y="27.0000" />
@@ -27,7 +27,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.8000" />
                 <PreSize X="0.3567" Y="0.1337" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -48,7 +48,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_item_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_shop_item_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

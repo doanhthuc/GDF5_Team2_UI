@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1342" Y="0.5000" />
                 <PreSize X="0.1868" Y="0.6892" />
-                <FileData Type="Normal" Path="assets/card/stat_icon/stat_icon_damage.png" Plist="" />
+                <FileData Type="Normal" Path="textures/card/stat_icon/stat_icon_damage.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="statNameTxt" ActionTag="481327212" Alpha="204" Tag="135" IconVisible="False" LeftMargin="66.3400" RightMargin="52.6600" TopMargin="5.4840" BottomMargin="46.5160" FontSize="16" LabelText="Sát thương:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -28,7 +28,7 @@
                 <CColor A="255" R="55" G="51" B="51" />
                 <PrePosition X="0.2581" Y="0.7772" />
                 <PreSize X="0.5370" Y="0.2973" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -40,7 +40,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2581" Y="0.3484" />
                 <PreSize X="0.2490" Y="0.3649" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="0" G="0" B="0" />
               </AbstractNodeData>
@@ -51,7 +51,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_card_panel_stat.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_card_panel_stat.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

@@ -27,7 +27,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.2475" />
                 <PreSize X="0.8280" Y="0.5990" />
-                <FileData Type="Normal" Path="assets/lobby/lobby_shop_item_gold_3.png" Plist="" />
+                <FileData Type="Normal" Path="textures/lobby/lobby_shop_item_gold_3.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="goldSlotValueTxt" ActionTag="-2014288193" Tag="86" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="23.0000" RightMargin="23.0000" TopMargin="10.1000" BottomMargin="161.9000" FontSize="22" LabelText="10.000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="111.0000" Y="30.0000" />
@@ -37,7 +37,7 @@
                 <CColor A="255" R="242" G="214" B="22" />
                 <PrePosition X="0.5000" Y="0.9500" />
                 <PreSize X="0.7070" Y="0.1485" />
-                <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -48,7 +48,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_item_background.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_shop_item_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

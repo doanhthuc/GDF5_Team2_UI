@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4902" />
                 <PreSize X="0.6842" Y="0.5000" />
-                <FileData Type="Normal" Path="assets/lobby/lobby_shop_category_daily.png" Plist="" />
+                <FileData Type="Normal" Path="textures/lobby/lobby_shop_category_daily.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -27,7 +27,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_shop_banner.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_shop_banner.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
