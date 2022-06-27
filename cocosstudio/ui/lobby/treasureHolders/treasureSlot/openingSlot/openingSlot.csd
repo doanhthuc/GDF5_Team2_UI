@@ -31,7 +31,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/lobby/treasure/common_treasure_tutorial.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="actionTxt" ActionTag="1097861957" Tag="2027" IconVisible="False" LeftMargin="-50.5000" RightMargin="-50.5000" TopMargin="20.7907" BottomMargin="-44.7907" FontSize="16" LabelText="Mở ngay" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="openingActionTxt" ActionTag="1097861957" Tag="2027" IconVisible="False" LeftMargin="-50.5000" RightMargin="-50.5000" TopMargin="20.7907" BottomMargin="-44.7907" FontSize="16" LabelText="Mở ngay" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="101.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="-32.7907" />
@@ -55,7 +55,7 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_30" ActionTag="1163887602" Tag="2029" IconVisible="False" LeftMargin="-15.0557" RightMargin="-39.9443" TopMargin="29.3400" BottomMargin="-92.3400" LeftEage="18" RightEage="18" TopEage="20" BottomEage="20" Scale9OriginX="18" Scale9OriginY="20" Scale9Width="19" Scale9Height="23" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="openingGemIcon" ActionTag="1163887602" Tag="2029" IconVisible="False" LeftMargin="-15.0557" RightMargin="-39.9443" TopMargin="29.3400" BottomMargin="-92.3400" LeftEage="18" RightEage="18" TopEage="20" BottomEage="20" Scale9OriginX="18" Scale9OriginY="20" Scale9Width="19" Scale9Height="23" ctype="ImageViewObjectData">
             <Size X="55.0000" Y="63.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="12.4443" Y="-60.8400" />
@@ -74,6 +74,54 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/lobby/treasureHolders/treasureSlot/openingSlot/countdownHolder.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="mapNameTxt" ActionTag="884776250" Alpha="76" Tag="28" IconVisible="False" LeftMargin="-54.0000" RightMargin="-54.0000" TopMargin="58.9635" BottomMargin="-76.9635" FontSize="12" LabelText="Rừng thiêng" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="108.0000" Y="18.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="-67.9635" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="0" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="emptySlotTxt" ActionTag="179188741" Alpha="76" Tag="29" IconVisible="False" LeftMargin="-55.0050" RightMargin="-54.9950" TopMargin="-13.4989" BottomMargin="-13.5011" FontSize="18" LabelText="Ô Trống" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="110.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-0.0050" Y="-0.0011" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="0" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="finishedActionTxt" ActionTag="677554085" Tag="30" IconVisible="False" LeftMargin="-56.0000" RightMargin="-56.0000" TopMargin="44.0127" BottomMargin="-71.0127" FontSize="18" LabelText="Mở ngay" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="112.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="-57.5127" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="0" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="occupiedCountdownTxt" ActionTag="-310153422" Alpha="76" Tag="31" IconVisible="False" LeftMargin="-17.0000" RightMargin="-17.0000" TopMargin="-83.1191" BottomMargin="56.1191" FontSize="18" LabelText="3H" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="34.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="69.6191" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="0" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
