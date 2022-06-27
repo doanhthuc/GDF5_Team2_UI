@@ -6284,6 +6284,40 @@
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
           </Folder>
+          <Folder Name="battle">
+            <Folder Name="battle_map_layer">
+              <Project Name="BattleMapLayer.csd" Type="Layer" />
+              <Project Name="BattleMapOpponent.csd" Type="Node" />
+              <Project Name="BattleMapPlayer.csd" Type="Node" />
+              <Project Name="BattleRiver.csd" Type="Node" />
+            </Folder>
+            <Folder Name="battle_ui_layer">
+              <Folder Name="avatar">
+                <Project Name="PlayerInfoNode.csd" Type="Node" />
+              </Folder>
+              <Folder Name="card">
+                <Project Name="BattleCardDeckNode.csd" Type="Node" />
+                <Project Name="BattleCardNode.csd" Type="Node" />
+                <Project Name="CardEnergyNode.csd" Type="Node" />
+                <Project Name="EnergyProgressNode.csd" Type="Node" />
+              </Folder>
+              <Folder Name="energy">
+                <Project Name="HouseEnergy.csd" Type="Node" />
+              </Folder>
+              <Folder Name="timer">
+                <Project Name="BattleTimerNode.csd" Type="Node" />
+              </Folder>
+              <Folder Name="tropy">
+                <Project Name="TrophyNode.csd" Type="Node" />
+              </Folder>
+              <Folder Name="wave">
+                <Project Name="WaveNode.csd" Type="Node" />
+              </Folder>
+              <Project Name="BattleUILayer.csd" Type="Layer" />
+            </Folder>
+            <Project Name="BattleScene.csd" Type="Scene" />
+            <Project Name="HpBarNode.csd" Type="Node" />
+          </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
               <Folder Name="treasureSlot">
