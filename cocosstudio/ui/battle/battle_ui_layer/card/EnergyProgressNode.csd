@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/lobby/lobby_card_progress_background_deck.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/lobby_card_progress_background_deck.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="value" ActionTag="1269011131" Alpha="229" Tag="2233" IconVisible="False" LeftMargin="-60.0000" RightMargin="-60.0000" TopMargin="-12.0015" BottomMargin="-11.9985" ProgressInfo="60" ctype="LoadingBarObjectData">
             <Size X="120.0000" Y="24.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <ImageFileData Type="Normal" Path="assets/lobby/lobby_card_progress.png" Plist="" />
+            <ImageFileData Type="Normal" Path="textures/lobby/lobby_card_progress.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="energy" ActionTag="1319967300" Tag="2766" IconVisible="True" LeftMargin="-243.7312" RightMargin="243.7312" TopMargin="-1.9576" BottomMargin="1.9576" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
@@ -44,7 +44,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

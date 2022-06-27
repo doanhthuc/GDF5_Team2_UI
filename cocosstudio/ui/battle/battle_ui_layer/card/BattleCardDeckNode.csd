@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/battle/battle_deck.png" Plist="" />
+            <FileData Type="Normal" Path="textures/battle/battle_deck.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="card_1" ActionTag="-1958696193" Tag="1746" IconVisible="True" LeftMargin="-156.8156" RightMargin="156.8156" TopMargin="-14.7590" BottomMargin="14.7590" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
@@ -64,7 +64,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/battle/battle_btn_chat.png" Plist="" />
+            <FileData Type="Normal" Path="textures/battle/battle_btn_chat.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="label_1" ActionTag="31762123" Tag="1768" IconVisible="False" LeftMargin="-313.0009" RightMargin="217.0009" TopMargin="-32.2370" BottomMargin="14.2370" FontSize="13" LabelText="Tiếp theo:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="96.0000" Y="18.0000" />
@@ -74,7 +74,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

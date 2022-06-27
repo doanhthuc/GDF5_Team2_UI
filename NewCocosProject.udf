@@ -1,19 +1,5 @@
 <UserData Version="3.10.0.0">
   <Properties>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="ui/battle/battle_ui_layer/card/BattleCardNode.csd" />
-          <FilePathData Path="ui/battle/battle_ui_layer/card/BattleCardDeckNode.csd" />
-          <FilePathData Path="ui/battle/battle_ui_layer/card/CardEnergyNode.csd" />
-          <FilePathData Path="ui/battle/battle_ui_layer/BattleUILayer.csd" />
-          <FilePathData Path="ui/battle/battle_ui_layer/card/EnergyProgressNode.csd" />
-          <FilePathData Path="ui/battle/BattleScene.csd" />
-          <FilePathData Path="ui/battle/HpBarNode.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="ui/battle/BattleScene.csd" />
-      </Value>
-    </Item>
     <Item Key="CocosRecentOperation">
       <Value ctype="CocosRecentOperation">
         <LastPublishType Value="Resource" />
@@ -40,16 +26,6 @@
         <KeystoreAliasPassword Value="" />
         <EnableSourceMap Value="False" />
         <EnableHTML5Advanced Value="False" />
-      </Value>
-    </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="ui/battle/BattleScene.csd" />
-          <FilePathData Path="ui/battle/battle_ui_layer/avatar/AvatarNode.csd" />
-          <FilePathData Path="ui/battle/battle_ui_layer/BattleUILayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="ui/battle/BattleScene.csd" />
       </Value>
     </Item>
   </Properties>

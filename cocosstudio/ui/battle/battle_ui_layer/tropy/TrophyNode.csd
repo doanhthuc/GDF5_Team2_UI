@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/battle/battle_info_box.png" Plist="" />
+            <FileData Type="Normal" Path="textures/battle/battle_info_box.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="tropy" ActionTag="491555786" Tag="874" IconVisible="False" LeftMargin="-134.0000" RightMargin="26.0000" TopMargin="-52.5000" BottomMargin="-52.5000" LeftEage="35" RightEage="35" TopEage="34" BottomEage="34" Scale9OriginX="35" Scale9OriginY="34" Scale9Width="38" Scale9Height="37" ctype="ImageViewObjectData">
             <Size X="108.0000" Y="105.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_icon_trophy.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_icon_trophy.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="number_trophy" ActionTag="186752616" Tag="875" IconVisible="False" LeftMargin="-46.5000" RightMargin="-46.5000" TopMargin="-13.5000" BottomMargin="-13.5000" FontSize="20" LabelText="93.774" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="93.0000" Y="27.0000" />
@@ -34,7 +34,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

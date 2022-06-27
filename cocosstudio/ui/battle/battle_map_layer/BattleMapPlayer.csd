@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/map/map_background_0003.png" Plist="" />
+            <FileData Type="Normal" Path="textures/map/map_background_0003.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="map" ActionTag="-850968760" Tag="464" IconVisible="False" LeftMargin="-269.5000" RightMargin="-269.5000" TopMargin="-192.5000" BottomMargin="-192.5000" ctype="SpriteObjectData">
             <Size X="539.0000" Y="385.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/map/map_background_0001.png" Plist="" />
+            <FileData Type="Normal" Path="textures/map/map_background_0001.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="grid" ActionTag="-907766610" Tag="466" IconVisible="False" LeftMargin="-270.5000" RightMargin="-270.5000" TopMargin="-193.5000" BottomMargin="-193.5000" ctype="SpriteObjectData">
@@ -35,7 +35,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/battle/UI/ui_grid.png" Plist="" />
+            <FileData Type="Normal" Path="textures/battle/UI/ui_grid.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

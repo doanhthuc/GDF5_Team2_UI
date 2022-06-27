@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.2659" Y="0.9710" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/battle/battle_ui_layer/avatar/AvatarNode.csd" Plist="" />
+            <FileData Type="Normal" Path="ui/battle/battle_ui_layer/avatar/PlayerInfoNode.csd" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="tropy_node" ActionTag="-1193138234" Tag="881" IconVisible="True" LeftMargin="557.8373" RightMargin="82.1627" TopMargin="33.2361" BottomMargin="1102.7639" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
@@ -54,7 +54,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.9598" Y="0.5594" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/battle/battle_ui_layer/energy/BattleEnergy.csd" Plist="" />
+            <FileData Type="Normal" Path="ui/battle/battle_ui_layer/energy/HouseEnergy.csd" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="FileNode_2" ActionTag="-784349193" Tag="2047" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="1036.0000" BottomMargin="100.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />

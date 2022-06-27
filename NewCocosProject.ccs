@@ -3,7 +3,7 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Folder Name="assets">
+        <Folder Name="textures">
           <Folder Name="battle">
             <Folder Name="FAKE">
               <Image Name="Fake_Ingame.png" />
@@ -6319,7 +6319,7 @@
             </Folder>
             <Folder Name="battle_ui_layer">
               <Folder Name="avatar">
-                <Project Name="AvatarNode.csd" Type="Node" />
+                <Project Name="PlayerInfoNode.csd" Type="Node" />
               </Folder>
               <Folder Name="card">
                 <Project Name="BattleCardDeckNode.csd" Type="Node" />
@@ -6328,7 +6328,7 @@
                 <Project Name="EnergyProgressNode.csd" Type="Node" />
               </Folder>
               <Folder Name="energy">
-                <Project Name="BattleEnergy.csd" Type="Node" />
+                <Project Name="HouseEnergy.csd" Type="Node" />
               </Folder>
               <Folder Name="timer">
                 <Project Name="BattleTimerNode.csd" Type="Node" />

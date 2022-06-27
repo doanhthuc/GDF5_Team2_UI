@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="assets/common/common_icon_energy.png" Plist="" />
+            <FileData Type="Normal" Path="textures/common/common_icon_energy.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="value" ActionTag="-1350462432" Tag="1809" IconVisible="False" LeftMargin="-10.0000" RightMargin="-10.0000" TopMargin="-15.5000" BottomMargin="-15.5000" FontSize="20" LabelText="7" OutlineSize="2" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="20.0000" Y="31.0000" />
@@ -24,7 +24,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="assets/font/SVN-Supercell Magic.ttf" Plist="" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
