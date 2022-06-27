@@ -21,15 +21,15 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="treasureImg" ActionTag="28155084" Tag="1735" IconVisible="False" LeftMargin="-110.0000" RightMargin="-110.0000" TopMargin="-100.5000" BottomMargin="-100.5000" LeftEage="72" RightEage="72" TopEage="66" BottomEage="66" Scale9OriginX="72" Scale9OriginY="66" Scale9Width="76" Scale9Height="69" ctype="ImageViewObjectData">
-            <Size X="220.0000" Y="201.0000" />
+          <AbstractNodeData Name="treasureImg" ActionTag="28155084" Tag="1735" IconVisible="False" LeftMargin="-64.0000" RightMargin="-64.0000" TopMargin="-64.0000" BottomMargin="-64.0000" LeftEage="42" RightEage="42" TopEage="42" BottomEage="42" Scale9OriginX="42" Scale9OriginY="42" Scale9Width="44" Scale9Height="44" ctype="ImageViewObjectData">
+            <Size X="128.0000" Y="128.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
-            <Scale ScaleX="0.3500" ScaleY="0.3500" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="textures/common/common_treasure.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_treasure_tutorial.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="actionTxt" ActionTag="1097861957" Tag="2027" IconVisible="False" LeftMargin="-50.5000" RightMargin="-50.5000" TopMargin="20.7907" BottomMargin="-44.7907" FontSize="16" LabelText="Mở ngay" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="101.0000" Y="24.0000" />
@@ -65,7 +65,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/common/common_icon_g_small.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_1" ActionTag="-756211141" Tag="198" IconVisible="True" LeftMargin="-0.0009" RightMargin="0.0009" TopMargin="-74.8689" BottomMargin="74.8689" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="countDownNode" ActionTag="-756211141" Tag="198" IconVisible="True" LeftMargin="-0.0009" RightMargin="0.0009" TopMargin="-74.8689" BottomMargin="74.8689" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="-0.0009" Y="74.8689" />

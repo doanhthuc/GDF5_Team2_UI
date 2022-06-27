@@ -64,19 +64,19 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="treasureImg" ActionTag="-475151025" Tag="168" IconVisible="False" LeftMargin="-110.0000" RightMargin="-110.0000" TopMargin="-350.5000" BottomMargin="149.5000" ctype="SpriteObjectData">
-            <Size X="220.0000" Y="201.0000" />
+          <AbstractNodeData Name="treasureImg" ActionTag="-475151025" Tag="168" IconVisible="False" LeftMargin="-64.0000" RightMargin="-64.0000" TopMargin="-314.0000" BottomMargin="186.0000" ctype="SpriteObjectData">
+            <Size X="128.0000" Y="128.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="250.0000" />
-            <Scale ScaleX="0.6000" ScaleY="0.6000" />
+            <Scale ScaleX="1.3000" ScaleY="1.3000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="textures/common/common_treasure.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_treasure_tutorial.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="treasureNameTxt" ActionTag="1911365521" Tag="169" IconVisible="False" LeftMargin="-86.0000" RightMargin="-86.0000" TopMargin="-144.5000" BottomMargin="115.5000" FontSize="20" LabelText="Rương Vàng" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="172.0000" Y="29.0000" />
+          <AbstractNodeData Name="treasureNameTxt" ActionTag="1911365521" Tag="169" IconVisible="False" LeftMargin="-69.0000" RightMargin="-69.0000" TopMargin="-144.5000" BottomMargin="115.5000" FontSize="20" LabelText="Rương gỗ" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="138.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="130.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

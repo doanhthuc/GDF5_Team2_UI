@@ -33,15 +33,15 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="treasureImg" ActionTag="-973128561" Tag="1672" IconVisible="False" LeftMargin="-110.0001" RightMargin="-109.9999" TopMargin="-100.5000" BottomMargin="-100.5000" LeftEage="72" RightEage="72" TopEage="66" BottomEage="66" Scale9OriginX="72" Scale9OriginY="66" Scale9Width="76" Scale9Height="69" ctype="ImageViewObjectData">
-            <Size X="220.0000" Y="201.0000" />
+          <AbstractNodeData Name="treasureImg" ActionTag="-973128561" Tag="1672" IconVisible="False" LeftMargin="-64.0001" RightMargin="-63.9999" TopMargin="-64.0000" BottomMargin="-64.0000" LeftEage="42" RightEage="42" TopEage="42" BottomEage="42" Scale9OriginX="42" Scale9OriginY="42" Scale9Width="44" Scale9Height="44" ctype="ImageViewObjectData">
+            <Size X="128.0000" Y="128.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-0.0001" />
-            <Scale ScaleX="0.3500" ScaleY="0.3500" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="textures/common/common_treasure.png" Plist="" />
+            <FileData Type="Normal" Path="textures/lobby/treasure/common_treasure_tutorial.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="mapNameTxt" ActionTag="-612516419" Alpha="76" Tag="1673" IconVisible="False" LeftMargin="-54.0000" RightMargin="-54.0000" TopMargin="58.9635" BottomMargin="-76.9635" FontSize="12" LabelText="Rừng thiêng" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="108.0000" Y="18.0000" />
