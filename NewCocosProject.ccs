@@ -6359,6 +6359,9 @@
             <Project Name="shopSection.csd" Type="Node" />
             <Project Name="shopTreasureSlot.csd" Type="Node" />
           </Folder>
+          <Folder Name="cheat">
+            <Project Name="cheatPopup.csd" Type="Node" />
+          </Folder>
         </Folder>
       </RootFolder>
     </Group>
