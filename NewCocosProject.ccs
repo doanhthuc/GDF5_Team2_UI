@@ -6303,8 +6303,8 @@
             <Project Name="HpBarNode.csd" Type="Node" />
           </Folder>
           <Folder Name="cheat">
-            <Project Name="cheatPopup.csd" Type="Node" />
             <Project Name="cheatButton.csd" Type="Node" />
+            <Project Name="cheatPopup.csd" Type="Node" />
           </Folder>
           <Folder Name="inventory">
             <Folder Name="button">

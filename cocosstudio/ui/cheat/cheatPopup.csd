@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="44" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="modal" ActionTag="393136092" Alpha="204" Tag="49" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="modal" ActionTag="393136092" Alpha="204" Tag="49" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -135,7 +135,7 @@
             <FileData Type="Normal" Path="textures/lobby/lobby_card_panel_box.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_24" ActionTag="2020021113" Tag="72" IconVisible="False" LeftMargin="-149.2768" RightMargin="31.2768" TopMargin="86.3376" BottomMargin="-250.3376" ctype="SpriteObjectData">
+          <AbstractNodeData Name="cardImg" ActionTag="2020021113" Tag="72" IconVisible="False" LeftMargin="-149.2768" RightMargin="31.2768" TopMargin="86.3376" BottomMargin="-250.3376" ctype="SpriteObjectData">
             <Size X="118.0000" Y="164.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-90.2768" Y="-168.3376" />
@@ -218,7 +218,7 @@
           <AbstractNodeData Name="submitBtn" ActionTag="-892599942" Tag="36" IconVisible="False" LeftMargin="-97.0000" RightMargin="-97.0000" TopMargin="298.9335" BottomMargin="-409.9335" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="164" Scale9Height="89" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="194.0000" Y="111.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="0.0000" Y="-354.4335" />
+            <Position Y="-354.4335" />
             <Scale ScaleX="1.0000" ScaleY="0.5558" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -248,10 +248,10 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2" ActionTag="573353052" Tag="39" IconVisible="False" LeftMargin="14.6842" RightMargin="-109.6842" TopMargin="64.9311" BottomMargin="-88.9311" FontSize="16" LabelText="Card ID:" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_2" ActionTag="573353052" Tag="39" IconVisible="False" LeftMargin="14.6841" RightMargin="-109.6841" TopMargin="67.9312" BottomMargin="-91.9312" FontSize="16" LabelText="Card ID:" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="95.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="62.1842" Y="-76.9311" />
+            <Position X="62.1841" Y="-79.9312" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -284,10 +284,10 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cardIdCheatInput" ActionTag="1719377212" Tag="42" IconVisible="False" LeftMargin="16.6025" RightMargin="-176.6025" TopMargin="94.6398" BottomMargin="-139.6398" TouchEnable="True" FontSize="24" IsCustomSize="True" LabelText="" PlaceHolderText="Text Field" MaxLengthText="10" ctype="TextFieldObjectData">
+          <AbstractNodeData Name="cardIdCheatInput" ActionTag="1719377212" Tag="42" IconVisible="False" LeftMargin="16.6024" RightMargin="-176.6024" TopMargin="97.6398" BottomMargin="-142.6398" TouchEnable="True" FontSize="24" IsCustomSize="True" LabelText="" PlaceHolderText="Text Field" MaxLengthText="10" ctype="TextFieldObjectData">
             <Size X="160.0000" Y="45.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="96.6025" Y="-117.1398" />
+            <Position X="96.6024" Y="-120.1398" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -315,6 +315,33 @@
             <Size X="56.0000" Y="35.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="-352.7829" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="0" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="chestCheatBtn" ActionTag="-2048908994" Tag="161" IconVisible="False" LeftMargin="-97.0000" RightMargin="-97.0000" TopMargin="-16.1010" BottomMargin="-94.8990" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="164" Scale9Height="89" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="194.0000" Y="111.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="-39.3990" />
+            <Scale ScaleX="1.9838" ScaleY="0.5500" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_btn_blue.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_btn_blue.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Text_3" ActionTag="672233606" Tag="162" IconVisible="False" LeftMargin="-121.0000" RightMargin="-121.0000" TopMargin="23.8116" BottomMargin="-50.8116" FontSize="20" LabelText="Cheat full rương" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="243.0000" Y="29.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="-37.3116" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
