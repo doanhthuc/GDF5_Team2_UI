@@ -6302,6 +6302,10 @@
             <Project Name="BattleScene.csd" Type="Scene" />
             <Project Name="HpBarNode.csd" Type="Node" />
           </Folder>
+          <Folder Name="cheat">
+            <Project Name="cheatPopup.csd" Type="Node" />
+            <Project Name="cheatButton.csd" Type="Node" />
+          </Folder>
           <Folder Name="inventory">
             <Folder Name="button">
               <Project Name="selectBtn.csd" Type="Node" />
@@ -6358,9 +6362,6 @@
             <Project Name="shopItemSlot.csd" Type="Node" />
             <Project Name="shopSection.csd" Type="Node" />
             <Project Name="shopTreasureSlot.csd" Type="Node" />
-          </Folder>
-          <Folder Name="cheat">
-            <Project Name="cheatPopup.csd" Type="Node" />
           </Folder>
         </Folder>
       </RootFolder>

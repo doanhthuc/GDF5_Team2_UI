@@ -36,10 +36,11 @@
           <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/emptySlot.csd" />
           <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/finishedSlot.csd" />
           <FilePathData Path="ui/lobby/treasureHolders/treasureSlot/occupiedSlot.csd" />
-          <FilePathData Path="ui/cheat/cheatPopup.csd" />
           <FilePathData Path="ui/inventory/card.csd" />
+          <FilePathData Path="ui/cheat/cheatPopup.csd" />
+          <FilePathData Path="ui/cheat/cheatButton.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/cheat/cheatPopup.csd" />
+        <ActiveDocument Path="ui/cheat/cheatButton.csd" />
       </Value>
     </Item>
   </Properties>
