@@ -26,7 +26,7 @@
                 </Children>
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="3.0000" Y="15.2700" />
-                <Scale ScaleX="0.5900" ScaleY="1.0000" />
+                <Scale ScaleX="0.6600" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0238" Y="0.5090" />
                 <PreSize X="0.9524" Y="0.8000" />

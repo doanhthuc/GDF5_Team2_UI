@@ -6278,6 +6278,7 @@
             <Folder Name="battle_ui_layer">
               <Folder Name="avatar">
                 <Project Name="PlayerInfoNode.csd" Type="Node" />
+                <Project Name="TwoPlayerInfoNode.csd" Type="Node" />
               </Folder>
               <Folder Name="card">
                 <Project Name="BattleCardDeckNode.csd" Type="Node" />
@@ -6298,9 +6299,23 @@
                 <Project Name="WaveNode.csd" Type="Node" />
               </Folder>
               <Project Name="BattleUILayer.csd" Type="Layer" />
+              <Folder Name="button">
+                <Project Name="BackButtonNode.csd" Type="Node" />
+              </Folder>
             </Folder>
             <Project Name="BattleScene.csd" Type="Scene" />
             <Project Name="HpBarNode.csd" Type="Node" />
+            <Folder Name="matching">
+              <Project Name="MatchingScene.csd" Type="Scene" />
+              <Project Name="MapIconNode.csd" Type="Node" />
+              <Project Name="CancelButtonNode.csd" Type="Node" />
+              <Project Name="MatchingTextNode.csd" Type="Node" />
+            </Folder>
+            <Folder Name="battle_result_layer">
+              <Project Name="PlayerInfoNode.csd" Type="Node" />
+              <Project Name="BackButtonNode.csd" Type="Node" />
+            </Folder>
+            <Folder Name="NewFolder" />
           </Folder>
           <Folder Name="inventory">
             <Folder Name="button">
@@ -6346,17 +6361,18 @@
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
           <Folder Name="shop">
+            <Project Name="CardUpgradeProgressBar.csd" Type="Node" />
             <Project Name="costButton.csd" Type="Node" />
             <Project Name="freeButton.csd" Type="Node" />
             <Project Name="refershShopNode.csd" Type="Node" />
             <Project Name="shopCardItem.csd" Type="Node" />
             <Project Name="shopCardPopup.csd" Type="Node" />
-            <Project Name="shopCategory.csd" Type="Node" />
             <Project Name="shopGoldItem.csd" Type="Node" />
             <Project Name="shopGoldPopup.csd" Type="Node" />
             <Project Name="shopGoldSlot.csd" Type="Node" />
             <Project Name="shopItemSlot.csd" Type="Node" />
             <Project Name="shopSection.csd" Type="Node" />
+            <Project Name="ShopSectionTitleNode.csd" Type="Node" />
             <Project Name="shopTreasureSlot.csd" Type="Node" />
           </Folder>
         </Folder>

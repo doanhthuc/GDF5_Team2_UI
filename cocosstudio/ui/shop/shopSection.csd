@@ -27,15 +27,15 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/shop/refershShopNode.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shopCategoryNode" ActionTag="191586194" Tag="173" IconVisible="True" LeftMargin="-0.0002" RightMargin="0.0002" TopMargin="-164.9991" BottomMargin="164.9991" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="ShopSectionTitleNode" ActionTag="-1128120966" Tag="781" IconVisible="True" LeftMargin="1.0001" RightMargin="-1.0001" TopMargin="-161.0000" BottomMargin="161.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="-0.0002" Y="164.9991" />
+            <Position X="1.0001" Y="161.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/shop/shopCategory.csd" Plist="" />
+            <FileData Type="Normal" Path="ui/shop/ShopSectionTitleNode.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
