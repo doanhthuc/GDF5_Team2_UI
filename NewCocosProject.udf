@@ -28,5 +28,21 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="ui/shop/shopItemSlot.csd" />
+          <FilePathData Path="ui/shop/shopCardItem.csd" />
+          <FilePathData Path="ui/shop/costButton.csd" />
+          <FilePathData Path="ui/shop/shopSection.csd" />
+          <FilePathData Path="ui/shop/shopGoldSlot.csd" />
+          <FilePathData Path="ui/shop/shopGoldItem.csd" />
+          <FilePathData Path="ui/shop/shopCardPopup.csd" />
+          <FilePathData Path="ui/shop/shopTreasureSlot.csd" />
+          <FilePathData Path="ui/shop/shopGoldPopup.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="ui/shop/shopItemSlot.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

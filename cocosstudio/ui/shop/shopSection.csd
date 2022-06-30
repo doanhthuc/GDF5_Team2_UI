@@ -6,10 +6,10 @@
       <ObjectData Name="Node" Tag="216" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="shopPanelBackgroundImg" ActionTag="-531045196" Tag="217" IconVisible="False" LeftMargin="-304.0000" RightMargin="-304.0000" TopMargin="-139.5000" BottomMargin="-139.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="shopPanelBackgroundImg" ActionTag="-531045196" Tag="217" IconVisible="False" LeftMargin="-304.0001" RightMargin="-303.9999" TopMargin="-143.5001" BottomMargin="-135.4999" ctype="SpriteObjectData">
             <Size X="608.0000" Y="279.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position />
+            <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+            <Position X="-0.0001" Y="143.5001" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

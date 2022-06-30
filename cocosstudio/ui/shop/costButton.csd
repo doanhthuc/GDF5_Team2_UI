@@ -15,16 +15,16 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <DisabledFileData Type="Normal" Path="textures/common/common_btn_gray.png" Plist="" />
             <PressedFileData Type="Normal" Path="textures/common/common_btn_orange.png" Plist="" />
             <NormalFileData Type="Normal" Path="textures/common/common_btn_orange.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="priceTxt" ActionTag="-429960077" Tag="136" IconVisible="False" LeftMargin="-14.1170" RightMargin="-45.8830" TopMargin="-13.5000" BottomMargin="-13.5000" FontSize="20" LabelText="600" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="priceTxt" ActionTag="-429960077" Tag="136" IconVisible="False" LeftMargin="-14.1443" RightMargin="-45.8557" TopMargin="-15.8522" BottomMargin="-11.1478" FontSize="20" LabelText="600" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="60.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="15.8830" />
+            <Position X="15.8557" Y="2.3522" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -33,10 +33,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="unitIconImg" ActionTag="1587929737" Tag="137" IconVisible="False" LeftMargin="-59.4990" RightMargin="-0.5010" TopMargin="-32.0000" BottomMargin="-32.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="unitIconImg" ActionTag="1587929737" Tag="137" IconVisible="False" LeftMargin="-72.4985" RightMargin="12.4985" TopMargin="-32.0000" BottomMargin="-32.0000" ctype="SpriteObjectData">
             <Size X="60.0000" Y="64.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-29.4990" />
+            <Position X="-42.4985" Y="0.0000" />
             <Scale ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
