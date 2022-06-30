@@ -56,7 +56,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_ui_layer/energy/HouseEnergy.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_2" ActionTag="-784349193" Tag="2047" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="1036.0000" BottomMargin="100.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="deck" ActionTag="-784349193" Tag="2047" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="1036.0000" BottomMargin="100.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="320.0000" Y="100.0000" />

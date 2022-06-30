@@ -6274,11 +6274,19 @@
               <Project Name="BattleMapOpponent.csd" Type="Node" />
               <Project Name="BattleMapPlayer.csd" Type="Node" />
               <Project Name="BattleRiver.csd" Type="Node" />
+              <Project Name="BattleMapNode.csd" Type="Node" />
+            </Folder>
+            <Folder Name="battle_result_layer">
+              <Project Name="BackButtonNode.csd" Type="Node" />
+              <Project Name="PlayerInfoNode.csd" Type="Node" />
             </Folder>
             <Folder Name="battle_ui_layer">
               <Folder Name="avatar">
                 <Project Name="PlayerInfoNode.csd" Type="Node" />
                 <Project Name="TwoPlayerInfoNode.csd" Type="Node" />
+              </Folder>
+              <Folder Name="button">
+                <Project Name="BackButtonNode.csd" Type="Node" />
               </Folder>
               <Folder Name="card">
                 <Project Name="BattleCardDeckNode.csd" Type="Node" />
@@ -6299,23 +6307,15 @@
                 <Project Name="WaveNode.csd" Type="Node" />
               </Folder>
               <Project Name="BattleUILayer.csd" Type="Layer" />
-              <Folder Name="button">
-                <Project Name="BackButtonNode.csd" Type="Node" />
-              </Folder>
+            </Folder>
+            <Folder Name="matching">
+              <Project Name="CancelButtonNode.csd" Type="Node" />
+              <Project Name="MapIconNode.csd" Type="Node" />
+              <Project Name="MatchingScene.csd" Type="Scene" />
+              <Project Name="MatchingTextNode.csd" Type="Node" />
             </Folder>
             <Project Name="BattleScene.csd" Type="Scene" />
             <Project Name="HpBarNode.csd" Type="Node" />
-            <Folder Name="matching">
-              <Project Name="MatchingScene.csd" Type="Scene" />
-              <Project Name="MapIconNode.csd" Type="Node" />
-              <Project Name="CancelButtonNode.csd" Type="Node" />
-              <Project Name="MatchingTextNode.csd" Type="Node" />
-            </Folder>
-            <Folder Name="battle_result_layer">
-              <Project Name="PlayerInfoNode.csd" Type="Node" />
-              <Project Name="BackButtonNode.csd" Type="Node" />
-            </Folder>
-            <Folder Name="NewFolder" />
           </Folder>
           <Folder Name="inventory">
             <Folder Name="button">

@@ -6,17 +6,18 @@
       <ObjectData Name="Layer" Tag="220" ctype="GameLayerObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="background" CanEdit="False" ActionTag="-544435943" Tag="405" IconVisible="False" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
-            <Size X="640.0000" Y="1136.0000" />
+          <AbstractNodeData Name="background" CanEdit="False" ActionTag="-1249285938" Tag="70" IconVisible="False" LeftMargin="52.6273" RightMargin="-32.6273" TopMargin="15.0725" BottomMargin="64.9274" ctype="SpriteObjectData">
+            <Size X="620.0000" Y="1056.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="320.0000" Y="568.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="362.6273" Y="592.9274" />
+            <Scale ScaleX="1.9168" ScaleY="1.5012" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.5000" />
-            <PreSize X="1.0000" Y="1.0000" />
+            <PrePosition X="0.5666" Y="0.5219" />
+            <PreSize X="0.9688" Y="0.9296" />
             <FileData Type="Normal" Path="textures/map/map_background.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="river" ActionTag="-74296040" Tag="519" IconVisible="True" LeftMargin="321.6425" RightMargin="318.3575" TopMargin="478.7284" BottomMargin="657.2716" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="river" CanEdit="False" ActionTag="-74296040" Tag="519" IconVisible="True" LeftMargin="321.6425" RightMargin="318.3575" TopMargin="478.7284" BottomMargin="657.2716" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="321.6425" Y="657.2716" />
@@ -26,7 +27,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleRiver.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background_left" ActionTag="1232262600" Tag="155" IconVisible="False" LeftMargin="-286.7963" RightMargin="306.7963" TopMargin="-193.7086" BottomMargin="273.7086" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="background_left" CanEdit="False" ActionTag="1232262600" Tag="155" IconVisible="False" LeftMargin="-286.7963" RightMargin="306.7963" TopMargin="-193.7086" BottomMargin="273.7086" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="1056.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="23.2037" Y="801.7086" />
@@ -36,7 +37,7 @@
             <PreSize X="0.9688" Y="0.9296" />
             <FileData Type="Normal" Path="textures/map/map_background.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background_right" ActionTag="-1856811610" Tag="156" IconVisible="False" LeftMargin="310.6473" RightMargin="-290.6473" TopMargin="72.8716" BottomMargin="7.1285" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="background_right" CanEdit="False" ActionTag="-1856811610" Tag="156" IconVisible="False" LeftMargin="310.6473" RightMargin="-290.6473" TopMargin="72.8716" BottomMargin="7.1285" LeftEage="204" RightEage="204" TopEage="348" BottomEage="348" Scale9OriginX="204" Scale9OriginY="348" Scale9Width="212" Scale9Height="360" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="1056.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="620.6473" Y="535.1285" />
@@ -56,7 +57,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleMapPlayer.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="map_opponent" ActionTag="-1080910868" Tag="475" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="258.5000" BottomMargin="877.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="map_opponent" CanEdit="False" ActionTag="-1080910868" Tag="475" IconVisible="True" LeftMargin="320.0000" RightMargin="320.0000" TopMargin="258.5000" BottomMargin="877.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="320.0000" Y="877.5000" />
@@ -66,7 +67,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleMapOpponent.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_4" ActionTag="-1244343607" Tag="617" IconVisible="False" LeftMargin="562.1395" RightMargin="-201.1395" TopMargin="399.4659" BottomMargin="509.5341" LeftEage="92" RightEage="92" TopEage="74" BottomEage="74" Scale9OriginX="92" Scale9OriginY="74" Scale9Width="95" Scale9Height="79" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_4" CanEdit="False" ActionTag="-1244343607" Tag="617" IconVisible="False" LeftMargin="562.1395" RightMargin="-201.1395" TopMargin="399.4659" BottomMargin="509.5341" LeftEage="92" RightEage="92" TopEage="74" BottomEage="74" Scale9OriginX="92" Scale9OriginY="74" Scale9Width="95" Scale9Height="79" ctype="ImageViewObjectData">
             <Size X="279.0000" Y="227.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="701.6395" Y="623.0341" />
@@ -76,7 +77,7 @@
             <PreSize X="0.4359" Y="0.1998" />
             <FileData Type="Normal" Path="textures/map/map_decoration_0002.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="left_rock" ActionTag="-836697302" Tag="154" IconVisible="False" LeftMargin="-188.5126" RightMargin="582.5126" TopMargin="341.6746" BottomMargin="513.3254" LeftEage="81" RightEage="81" TopEage="92" BottomEage="92" Scale9OriginX="81" Scale9OriginY="92" Scale9Width="84" Scale9Height="97" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="left_rock" CanEdit="False" ActionTag="-836697302" Tag="154" IconVisible="False" LeftMargin="-188.5126" RightMargin="582.5126" TopMargin="341.6746" BottomMargin="513.3254" LeftEage="81" RightEage="81" TopEage="92" BottomEage="92" Scale9OriginX="81" Scale9OriginY="92" Scale9Width="84" Scale9Height="97" ctype="ImageViewObjectData">
             <Size X="246.0000" Y="281.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-65.5126" Y="653.8254" />
@@ -86,7 +87,7 @@
             <PreSize X="0.3844" Y="0.2474" />
             <FileData Type="Normal" Path="textures/map/map_decoration_0001.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_1" ActionTag="443863521" Tag="236" IconVisible="False" LeftMargin="-97.8624" RightMargin="592.8624" TopMargin="81.2397" BottomMargin="884.7603" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_1" CanEdit="False" ActionTag="443863521" Tag="236" IconVisible="False" LeftMargin="-97.8624" RightMargin="592.8624" TopMargin="81.2397" BottomMargin="884.7603" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-25.3624" Y="969.7603" />
@@ -96,7 +97,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0001.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_4" ActionTag="943015039" Tag="284" IconVisible="False" LeftMargin="-86.9811" RightMargin="581.9811" TopMargin="799.1928" BottomMargin="166.8072" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_4" CanEdit="False" ActionTag="943015039" Tag="284" IconVisible="False" LeftMargin="-86.9811" RightMargin="581.9811" TopMargin="799.1928" BottomMargin="166.8072" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-14.4811" Y="251.8072" />
@@ -106,7 +107,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0003.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_2" ActionTag="48271456" Tag="235" IconVisible="False" LeftMargin="-111.1604" RightMargin="606.1604" TopMargin="221.9409" BottomMargin="744.0591" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_2" CanEdit="False" ActionTag="48271456" Tag="235" IconVisible="False" LeftMargin="-111.1604" RightMargin="606.1604" TopMargin="221.9409" BottomMargin="744.0591" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-38.6604" Y="829.0591" />
@@ -116,7 +117,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0003.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_3" ActionTag="332553899" Tag="238" IconVisible="False" LeftMargin="-74.5751" RightMargin="569.5751" TopMargin="-20.2813" BottomMargin="986.2813" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_3" CanEdit="False" ActionTag="332553899" Tag="238" IconVisible="False" LeftMargin="-74.5751" RightMargin="569.5751" TopMargin="-20.2813" BottomMargin="986.2813" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-2.0751" Y="1071.2813" />
@@ -126,7 +127,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0002.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_5" ActionTag="-279540171" Tag="285" IconVisible="False" LeftMargin="-75.3706" RightMargin="570.3706" TopMargin="579.0448" BottomMargin="386.9552" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_5" CanEdit="False" ActionTag="-279540171" Tag="285" IconVisible="False" LeftMargin="-75.3706" RightMargin="570.3706" TopMargin="579.0448" BottomMargin="386.9552" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-2.8706" Y="471.9552" />
@@ -136,7 +137,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0004.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_7" ActionTag="38730543" Tag="287" IconVisible="False" LeftMargin="593.2309" RightMargin="-98.2309" TopMargin="792.9777" BottomMargin="173.0223" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_7" CanEdit="False" ActionTag="38730543" Tag="287" IconVisible="False" LeftMargin="593.2309" RightMargin="-98.2309" TopMargin="792.9777" BottomMargin="173.0223" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="665.7309" Y="258.0223" />
@@ -146,7 +147,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0003.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_6" ActionTag="1122970841" Tag="286" IconVisible="False" LeftMargin="537.2195" RightMargin="-42.2195" TopMargin="892.1754" BottomMargin="73.8246" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_6" CanEdit="False" ActionTag="1122970841" Tag="286" IconVisible="False" LeftMargin="537.2195" RightMargin="-42.2195" TopMargin="892.1754" BottomMargin="73.8246" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="609.7195" Y="158.8246" />
@@ -156,7 +157,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0001.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_26" ActionTag="-1581593340" Tag="237" IconVisible="False" LeftMargin="576.0696" RightMargin="-81.0696" TopMargin="130.3265" BottomMargin="835.6735" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_26" CanEdit="False" ActionTag="-1581593340" Tag="237" IconVisible="False" LeftMargin="576.0696" RightMargin="-81.0696" TopMargin="130.3265" BottomMargin="835.6735" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="648.5696" Y="920.6735" />
@@ -166,7 +167,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0004.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_5_0" ActionTag="1096243752" Tag="288" IconVisible="False" LeftMargin="592.2296" RightMargin="-97.2296" TopMargin="511.5759" BottomMargin="454.4241" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_5_0" CanEdit="False" ActionTag="1096243752" Tag="288" IconVisible="False" LeftMargin="592.2296" RightMargin="-97.2296" TopMargin="511.5759" BottomMargin="454.4241" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="664.7296" Y="539.4241" />
@@ -176,7 +177,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0004.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_7_0" ActionTag="2084322526" Tag="289" IconVisible="False" LeftMargin="612.2396" RightMargin="-117.2396" TopMargin="615.6068" BottomMargin="350.3932" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_7_0" CanEdit="False" ActionTag="2084322526" Tag="289" IconVisible="False" LeftMargin="612.2396" RightMargin="-117.2396" TopMargin="615.6068" BottomMargin="350.3932" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="684.7396" Y="435.3932" />
@@ -186,7 +187,7 @@
             <PreSize X="0.2266" Y="0.1496" />
             <FileData Type="Normal" Path="textures/map/map_decoration_tree_0003.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tree_2_0" ActionTag="-1622303955" Tag="290" IconVisible="False" LeftMargin="600.9691" RightMargin="-105.9691" TopMargin="285.0536" BottomMargin="680.9464" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="tree_2_0" CanEdit="False" ActionTag="-1622303955" Tag="290" IconVisible="False" LeftMargin="600.9691" RightMargin="-105.9691" TopMargin="285.0536" BottomMargin="680.9464" LeftEage="47" RightEage="47" TopEage="56" BottomEage="56" Scale9OriginX="47" Scale9OriginY="56" Scale9Width="51" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="145.0000" Y="170.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="673.4691" Y="765.9464" />
