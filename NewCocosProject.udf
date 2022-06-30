@@ -28,5 +28,23 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="ui/battle/battle_result_layer/PlayerInfoNode.csd" />
+          <FilePathData Path="ui/battle/battle_result_layer/BackButtonNode.csd" />
+          <FilePathData Path="ui/battle/matching/CancelButtonNode.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/button/BackButtonNode.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/BattleUILayer.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/avatar/TwoPlayerInfoNode.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/avatar/PlayerInfoNode.csd" />
+          <FilePathData Path="ui/battle/HpBarNode.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/energy/HouseEnergy.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/card/BattleCardDeckNode.csd" />
+          <FilePathData Path="ui/battle/battle_ui_layer/card/EnergyProgressNode.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="ui/battle/battle_ui_layer/card/EnergyProgressNode.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
