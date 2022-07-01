@@ -28,14 +28,5 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="ui/lobby/openTreasurePopup.csd" />
-          <FilePathData Path="ui/shop/shopCardItem.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="ui/shop/shopCardItem.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

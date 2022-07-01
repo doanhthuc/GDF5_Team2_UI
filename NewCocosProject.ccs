@@ -6336,9 +6336,10 @@
             </Folder>
             <Project Name="battleBtn.csd" Type="Node" />
             <Project Name="lobbyHomeNode.csd" Type="Node" />
+            <Project Name="openTreasurePopup.csd" Type="Node" />
             <Project Name="playerInfoHolder.csd" Type="Node" />
             <Project Name="treasurePopup.csd" Type="Node" />
-            <Project Name="openTreasurePopup.csd" Type="Node" />
+            <Project Name="cardWithQuantity.csd" Type="Node" />
           </Folder>
           <Folder Name="main">
             <Folder Name="bottom">

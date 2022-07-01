@@ -19,13 +19,13 @@
           <AbstractNodeData Name="backgroundImg" ActionTag="-36862881" Tag="107" IconVisible="False" LeftMargin="-310.0000" RightMargin="-310.0000" TopMargin="-324.6342" BottomMargin="-475.3658" LeftEage="149" RightEage="149" TopEage="129" BottomEage="129" Scale9OriginX="149" Scale9OriginY="129" Scale9Width="155" Scale9Height="135" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="800.0000" />
             <Children>
-              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" LeftMargin="276.1670" RightMargin="227.8330" TopMargin="44.9212" BottomMargin="726.0788" FontSize="20" LabelText="Pháo Cú" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="253.3108" RightMargin="250.6892" TopMargin="42.9213" BottomMargin="728.0787" FontSize="20" LabelText="Pháo Cú" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="116.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.4887" ScaleY="0.4644" />
-                <Position X="332.8562" Y="739.5464" />
+                <Position X="310.0000" Y="741.5463" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5369" Y="0.9244" />
+                <PrePosition X="0.5000" Y="0.9269" />
                 <PreSize X="0.1871" Y="0.0362" />
                 <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="26" G="26" B="26" />
@@ -46,13 +46,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="upgradeLevelTxt" ActionTag="-276847914" Tag="207" IconVisible="False" LeftMargin="291.9916" RightMargin="227.0084" TopMargin="68.9971" BottomMargin="703.0029" FontSize="20" LabelText="Tiến hoá 1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="upgradeLevelTxt" ActionTag="-276847914" Tag="207" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="259.5000" RightMargin="259.5000" TopMargin="69.9971" BottomMargin="702.0029" FontSize="20" LabelText="Tiến hoá 1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="101.0000" Y="28.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="342.4916" Y="717.0029" />
+                <Position X="310.0000" Y="716.0029" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="69" G="222" B="251" />
-                <PrePosition X="0.5524" Y="0.8963" />
+                <PrePosition X="0.5000" Y="0.8950" />
                 <PreSize X="0.1629" Y="0.0350" />
                 <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
@@ -123,13 +123,13 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="ui/inventory/button/skillBtn.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="196.9554" RightMargin="235.0446" TopMargin="-183.7798" BottomMargin="765.7798" ctype="SpriteObjectData">
+              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="216.0000" RightMargin="216.0000" TopMargin="-180.7803" BottomMargin="762.7803" ctype="SpriteObjectData">
                 <Size X="188.0000" Y="218.0000" />
-                <AnchorPoint ScaleX="0.6013" ScaleY="0.4413" />
-                <Position X="309.9998" Y="861.9827" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="310.0000" Y="871.7803" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="1.0775" />
+                <PrePosition X="0.5000" Y="1.0897" />
                 <PreSize X="0.3032" Y="0.2725" />
                 <FileData Type="Normal" Path="textures/card/miniature_tower_cannon_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -142,6 +142,36 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/common/common_panel_background.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="nextTowerImgBtn" ActionTag="-1308527594" Tag="117" IconVisible="False" LeftMargin="118.5000" RightMargin="-141.5000" TopMargin="-400.0000" BottomMargin="376.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="11" Scale9Width="9" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="23.0000" Y="24.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="130.0000" Y="388.0000" />
+            <Scale ScaleX="2.0000" ScaleY="2.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_panel_page.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_panel_page.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="prevToweImgBtn" ActionTag="-1204506882" Tag="118" IconVisible="False" LeftMargin="-141.5000" RightMargin="118.5000" TopMargin="-400.0000" BottomMargin="376.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="11" Scale9Width="9" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="23.0000" Y="24.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-130.0000" Y="388.0000" />
+            <Scale ScaleX="2.0000" ScaleY="2.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="textures/common/common_panel_page.png" Plist="" />
+            <NormalFileData Type="Normal" Path="textures/common/common_panel_page.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

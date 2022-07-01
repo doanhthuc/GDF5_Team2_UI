@@ -16,7 +16,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/lobby/lobby_home_treasure_opening_time.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="countdownTxt" ActionTag="-228975168" Tag="196" IconVisible="False" LeftMargin="-39.0000" RightMargin="-39.0000" TopMargin="-12.1289" BottomMargin="-8.8711" FontSize="14" LabelText="15h 32m" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="countdownTxt" ActionTag="-228975168" Tag="196" IconVisible="False" LeftMargin="-39.0000" RightMargin="-39.0000" TopMargin="-12.1289" BottomMargin="-8.8711" FontSize="14" LabelText="15h 32m" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="78.0000" Y="21.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="1.6289" />

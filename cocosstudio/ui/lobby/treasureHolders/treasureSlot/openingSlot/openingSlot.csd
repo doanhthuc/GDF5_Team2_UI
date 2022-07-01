@@ -43,8 +43,8 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="skipGemTxt" ActionTag="1940256830" Tag="2028" IconVisible="False" LeftMargin="-23.6732" RightMargin="1.6732" TopMargin="46.4142" BottomMargin="-75.4142" FontSize="20" LabelText="4" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="22.0000" Y="29.0000" />
+          <AbstractNodeData Name="skipGemTxt" ActionTag="1940256830" Tag="2028" IconVisible="False" LeftMargin="-45.1732" RightMargin="-19.8268" TopMargin="46.4142" BottomMargin="-75.4142" FontSize="20" LabelText="1435" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="65.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-12.6732" Y="-60.9142" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
