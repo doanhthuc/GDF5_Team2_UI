@@ -38,7 +38,7 @@
             <FileData Type="Normal" Path="textures/lobby/lobby_shop_item_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_15" ActionTag="535227229" Tag="185" IconVisible="False" LeftMargin="-46.5584" RightMargin="-48.4416" TopMargin="41.5162" BottomMargin="-76.5162" FontSize="24" LabelText="1.000" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="quantity" ActionTag="535227229" Tag="185" IconVisible="False" LeftMargin="-46.5584" RightMargin="-48.4416" TopMargin="41.5162" BottomMargin="-76.5162" FontSize="24" LabelText="1.000" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="95.0000" Y="35.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="0.9416" Y="-59.0162" />
@@ -77,7 +77,7 @@
             <OutlineColor A="255" R="32" G="0" B="32" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_5" ActionTag="-662641306" Tag="180" IconVisible="True" TopMargin="141.2333" BottomMargin="-141.2333" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="buy_btn" ActionTag="-662641306" Tag="180" IconVisible="True" TopMargin="141.2333" BottomMargin="-141.2333" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position Y="-141.2333" />
@@ -87,7 +87,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/shop/costButton.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_15" ActionTag="-605898278" Tag="203" IconVisible="False" LeftMargin="-22.9999" RightMargin="-23.0001" TopMargin="-57.4809" BottomMargin="11.4809" ctype="SpriteObjectData">
+          <AbstractNodeData Name="image" ActionTag="-605898278" Tag="203" IconVisible="False" LeftMargin="-43.9999" RightMargin="-44.0001" TopMargin="-88.4809" BottomMargin="-19.5191" ctype="SpriteObjectData">
             <Size X="88.0000" Y="108.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="0.0001" Y="34.4809" />

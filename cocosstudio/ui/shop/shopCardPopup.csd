@@ -27,10 +27,10 @@
             <FileData Type="Normal" Path="textures/common/common_panel_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cardNameTxt" ActionTag="-1224373932" Tag="82" IconVisible="False" LeftMargin="-58.0000" RightMargin="-58.0000" TopMargin="-173.6880" BottomMargin="144.6880" FontSize="20" LabelText="Pháo Cú" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="cardNameTxt" ActionTag="-1224373932" Tag="82" IconVisible="False" LeftMargin="-58.0000" RightMargin="-58.0000" TopMargin="-173.6900" BottomMargin="144.6900" FontSize="20" LabelText="Pháo Cú" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="116.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position Y="159.1880" />
+            <Position Y="159.1900" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -54,7 +54,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_3" ActionTag="1496685186" Tag="104" IconVisible="True" TopMargin="-123.2471" BottomMargin="123.2471" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="progress" ActionTag="1496685186" Tag="104" IconVisible="True" TopMargin="-123.2471" BottomMargin="123.2471" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position Y="123.2471" />
@@ -64,17 +64,17 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/inventory/cardUpgradeProgress.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_4" ActionTag="-685421362" Tag="168" IconVisible="True" TopMargin="-4.0682" BottomMargin="4.0682" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="card" ActionTag="-2432156" Tag="252" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position Y="4.0682" />
+            <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/inventory/cardImageNode.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_15" ActionTag="1469294587" Tag="173" IconVisible="False" LeftMargin="-31.5584" RightMargin="-33.4416" TopMargin="42.5162" BottomMargin="-75.5162" FontSize="24" LabelText="x50" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="quantity" ActionTag="1469294587" Tag="173" IconVisible="False" LeftMargin="-31.5584" RightMargin="-33.4416" TopMargin="41.5162" BottomMargin="-76.5162" FontSize="24" LabelText="x50" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="65.0000" Y="35.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="0.9416" Y="-59.0162" />
@@ -86,7 +86,7 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="FileNode_5" ActionTag="2013464085" Tag="174" IconVisible="True" TopMargin="141.2333" BottomMargin="-141.2333" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="buy_btn" ActionTag="2013464085" Tag="174" IconVisible="True" TopMargin="141.2333" BottomMargin="-141.2333" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position Y="-141.2333" />

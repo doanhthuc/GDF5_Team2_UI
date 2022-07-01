@@ -32,7 +32,7 @@
             <FileData Type="Normal" Path="textures/card/card_tower_cannon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cardBorderImg" ActionTag="144088712" Tag="136" IconVisible="False" LeftMargin="-69.0000" RightMargin="-69.0000" TopMargin="-93.0000" BottomMargin="-93.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="cardBorderImage" ActionTag="144088712" Tag="136" IconVisible="False" LeftMargin="-69.0000" RightMargin="-69.0000" TopMargin="-93.0000" BottomMargin="-93.0000" ctype="SpriteObjectData">
             <Size X="138.0000" Y="186.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />

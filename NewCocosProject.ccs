@@ -6271,10 +6271,10 @@
           <Folder Name="battle">
             <Folder Name="battle_map_layer">
               <Project Name="BattleMapLayer.csd" Type="Layer" />
+              <Project Name="BattleMapNode.csd" Type="Node" />
               <Project Name="BattleMapOpponent.csd" Type="Node" />
               <Project Name="BattleMapPlayer.csd" Type="Node" />
               <Project Name="BattleRiver.csd" Type="Node" />
-              <Project Name="BattleMapNode.csd" Type="Node" />
             </Folder>
             <Folder Name="battle_result_layer">
               <Project Name="BackButtonNode.csd" Type="Node" />
@@ -6333,33 +6333,6 @@
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
           </Folder>
-          <Folder Name="lobby">
-            <Folder Name="treasureHolders">
-              <Folder Name="treasureSlot">
-                <Folder Name="openingSlot">
-                  <Project Name="countdownHolder.csd" Type="Node" />
-                  <Project Name="openingSlot.csd" Type="Node" />
-                </Folder>
-                <Project Name="emptySlot.csd" Type="Node" />
-                <Project Name="finishedSlot.csd" Type="Node" />
-                <Project Name="occupiedSlot.csd" Type="Node" />
-              </Folder>
-            </Folder>
-            <Project Name="battleBtn.csd" Type="Node" />
-            <Project Name="lobbyHomeNode.csd" Type="Node" />
-            <Project Name="playerInfoHolder.csd" Type="Node" />
-            <Project Name="treasurePopup.csd" Type="Node" />
-          </Folder>
-          <Folder Name="main">
-            <Folder Name="bottom">
-              <Project Name="navTab.csd" Type="Node" />
-            </Folder>
-            <Folder Name="header">
-              <Project Name="concurrencyHolder.csd" Type="Node" />
-              <Project Name="header.csd" Type="Node" />
-            </Folder>
-            <Project Name="MainScene.csd" Type="Scene" />
-          </Folder>
           <Folder Name="shop">
             <Project Name="CardUpgradeProgressBar.csd" Type="Node" />
             <Project Name="costButton.csd" Type="Node" />
@@ -6367,6 +6340,7 @@
             <Project Name="refershShopNode.csd" Type="Node" />
             <Project Name="shopCardItem.csd" Type="Node" />
             <Project Name="shopCardPopup.csd" Type="Node" />
+            <Project Name="shopCategory.csd" Type="Node" />
             <Project Name="shopGoldItem.csd" Type="Node" />
             <Project Name="shopGoldPopup.csd" Type="Node" />
             <Project Name="shopGoldSlot.csd" Type="Node" />

@@ -16,7 +16,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/common/common_treasure.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="-365194876" Tag="264" IconVisible="False" LeftMargin="-29.0000" RightMargin="-29.0000" TopMargin="-95.8600" BottomMargin="64.8600" FontSize="20" LabelText="Bạc" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="cardNameTxt" ActionTag="-365194876" Tag="264" IconVisible="False" LeftMargin="-29.0000" RightMargin="-29.0000" TopMargin="-95.8600" BottomMargin="64.8600" FontSize="20" LabelText="Bạc" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="58.0000" Y="31.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="80.3600" />
