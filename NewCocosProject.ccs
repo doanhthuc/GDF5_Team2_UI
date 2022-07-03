@@ -6268,40 +6268,7 @@
           </Folder>
         </Folder>
         <Folder Name="ui">
-          <Folder Name="battle">
-            <Folder Name="battle_map_layer">
-              <Project Name="BattleMapLayer.csd" Type="Layer" />
-              <Project Name="BattleMapOpponent.csd" Type="Node" />
-              <Project Name="BattleMapPlayer.csd" Type="Node" />
-              <Project Name="BattleRiver.csd" Type="Node" />
-            </Folder>
-            <Folder Name="battle_ui_layer">
-              <Folder Name="avatar">
-                <Project Name="PlayerInfoNode.csd" Type="Node" />
-              </Folder>
-              <Folder Name="card">
-                <Project Name="BattleCardDeckNode.csd" Type="Node" />
-                <Project Name="BattleCardNode.csd" Type="Node" />
-                <Project Name="CardEnergyNode.csd" Type="Node" />
-                <Project Name="EnergyProgressNode.csd" Type="Node" />
-              </Folder>
-              <Folder Name="energy">
-                <Project Name="HouseEnergy.csd" Type="Node" />
-              </Folder>
-              <Folder Name="timer">
-                <Project Name="BattleTimerNode.csd" Type="Node" />
-              </Folder>
-              <Folder Name="tropy">
-                <Project Name="TrophyNode.csd" Type="Node" />
-              </Folder>
-              <Folder Name="wave">
-                <Project Name="WaveNode.csd" Type="Node" />
-              </Folder>
-              <Project Name="BattleUILayer.csd" Type="Layer" />
-            </Folder>
-            <Project Name="BattleScene.csd" Type="Scene" />
-            <Project Name="HpBarNode.csd" Type="Node" />
-          </Folder>
+          <Folder Name="battle" />
           <Folder Name="cheat">
             <Project Name="cheatButton.csd" Type="Node" />
             <Project Name="cheatPopup.csd" Type="Node" />
@@ -6321,6 +6288,7 @@
             <Project Name="cardStatHolder.csd" Type="Node" />
             <Project Name="cardUpgradeProgress.csd" Type="Node" />
             <Project Name="inventoryNode.csd" Type="Node" />
+            <Project Name="notEnoughResPopup.csd" Type="Node" />
           </Folder>
           <Folder Name="lobby">
             <Folder Name="treasureHolders">
@@ -6335,11 +6303,12 @@
               </Folder>
             </Folder>
             <Project Name="battleBtn.csd" Type="Node" />
+            <Project Name="cardWithQuantity.csd" Type="Node" />
+            <Project Name="fullTreasureSlotPopup.csd" Type="Node" />
             <Project Name="lobbyHomeNode.csd" Type="Node" />
             <Project Name="openTreasurePopup.csd" Type="Node" />
             <Project Name="playerInfoHolder.csd" Type="Node" />
             <Project Name="treasurePopup.csd" Type="Node" />
-            <Project Name="cardWithQuantity.csd" Type="Node" />
           </Folder>
           <Folder Name="main">
             <Folder Name="bottom">
@@ -6351,20 +6320,7 @@
             </Folder>
             <Project Name="MainScene.csd" Type="Scene" />
           </Folder>
-          <Folder Name="shop">
-            <Project Name="costButton.csd" Type="Node" />
-            <Project Name="freeButton.csd" Type="Node" />
-            <Project Name="refershShopNode.csd" Type="Node" />
-            <Project Name="shopCardItem.csd" Type="Node" />
-            <Project Name="shopCardPopup.csd" Type="Node" />
-            <Project Name="shopCategory.csd" Type="Node" />
-            <Project Name="shopGoldItem.csd" Type="Node" />
-            <Project Name="shopGoldPopup.csd" Type="Node" />
-            <Project Name="shopGoldSlot.csd" Type="Node" />
-            <Project Name="shopItemSlot.csd" Type="Node" />
-            <Project Name="shopSection.csd" Type="Node" />
-            <Project Name="shopTreasureSlot.csd" Type="Node" />
-          </Folder>
+          <Folder Name="shop" />
         </Folder>
       </RootFolder>
     </Group>

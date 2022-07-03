@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="163" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="blur" ActionTag="1407598595" Alpha="204" Tag="1033" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="modal" ActionTag="1407598595" Alpha="204" Tag="1033" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -31,7 +31,7 @@
             <Size X="424.0000" Y="342.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1.3875" Y="-10.0000" />
-            <Scale ScaleX="1.0000" ScaleY="0.5000" />
+            <Scale ScaleX="1.0000" ScaleY="0.4520" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -263,6 +263,18 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/lobby/treasure/common_icon_card_multiple_4.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="constrainTxt" ActionTag="2063942453" Tag="81" IconVisible="False" LeftMargin="-159.5000" RightMargin="-159.5000" TopMargin="85.5703" BottomMargin="-106.5703" FontSize="14" LabelText="Mỗi thời điểm chỉ mở một rương" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="319.0000" Y="21.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position Y="-96.0703" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="165" B="0" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="77" G="77" B="77" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
