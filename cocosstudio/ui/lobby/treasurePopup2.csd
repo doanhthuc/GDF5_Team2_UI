@@ -1,12 +1,12 @@
 <GameFile>
-  <PropertyGroup Name="treasurePopup" Type="Node" ID="64ee7d40-a579-428a-93f7-9c062cefc8d6" Version="3.10.0.0" />
+  <PropertyGroup Name="treasurePopup2" Type="Node" ID="64ee7d40-a579-428a-93f7-9c062cefc8d6" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Node" Tag="163" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="modal" ActionTag="1407598595" Alpha="204" Tag="1033" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="modal" ActionTag="1407598595" Alpha="204" Tag="1033" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
