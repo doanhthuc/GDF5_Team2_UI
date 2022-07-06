@@ -6,10 +6,10 @@
       <ObjectData Name="Node" Tag="165" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="modal" ActionTag="296423708" Alpha="202" Tag="660" IconVisible="False" LeftMargin="-320.0000" RightMargin="-320.0000" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="modal" ActionTag="296423708" Alpha="202" Tag="660" IconVisible="False" LeftMargin="-318.5501" RightMargin="-321.4499" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position />
+            <Position X="1.4499" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="0" G="0" B="0" />
             <PrePosition />
@@ -19,13 +19,13 @@
           <AbstractNodeData Name="backgroundImg" ActionTag="-36862881" Tag="107" IconVisible="False" LeftMargin="-310.0000" RightMargin="-310.0000" TopMargin="-324.6342" BottomMargin="-475.3658" LeftEage="149" RightEage="149" TopEage="129" BottomEage="129" Scale9OriginX="149" Scale9OriginY="129" Scale9Width="155" Scale9Height="135" ctype="ImageViewObjectData">
             <Size X="620.0000" Y="800.0000" />
             <Children>
-              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="253.3108" RightMargin="250.6892" TopMargin="42.9213" BottomMargin="728.0787" FontSize="20" LabelText="Pháo Cú" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="cardNameTxt" ActionTag="-700111239" Tag="235" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="252.0000" RightMargin="252.0000" TopMargin="42.9213" BottomMargin="728.0787" FontSize="20" LabelText="Pháo Cú" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="116.0000" Y="29.0000" />
-                <AnchorPoint ScaleX="0.4887" ScaleY="0.4644" />
-                <Position X="310.0000" Y="741.5463" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="310.0000" Y="742.5787" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="0.9269" />
+                <PrePosition X="0.5000" Y="0.9282" />
                 <PreSize X="0.1871" Y="0.0362" />
                 <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="26" G="26" B="26" />
@@ -69,30 +69,6 @@
                 <FileData Type="Normal" Path="textures/common/common_panel_front.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_17" ActionTag="838816163" Tag="344" IconVisible="False" LeftMargin="155.4529" RightMargin="263.5471" TopMargin="612.3282" BottomMargin="159.6718" FontSize="20" LabelText="Nâng cấp thẻ nhận: " ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="201.0000" Y="28.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="255.9529" Y="173.6718" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4128" Y="0.2171" />
-                <PreSize X="0.3242" Y="0.0350" />
-                <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
-                <OutlineColor A="255" R="255" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="revceivedExpTxt" ActionTag="783973954" Tag="348" IconVisible="False" LeftMargin="367.7404" RightMargin="154.2596" TopMargin="612.3282" BottomMargin="159.6718" FontSize="20" LabelText="1,650 EXP" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="98.0000" Y="28.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="416.7404" Y="173.6718" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="69" G="222" B="251" />
-                <PrePosition X="0.6722" Y="0.2171" />
-                <PreSize X="0.1581" Y="0.0350" />
-                <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
-                <OutlineColor A="255" R="255" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
               <AbstractNodeData Name="selectBtnlNode" ActionTag="-803234513" Tag="775" IconVisible="True" LeftMargin="133.6766" RightMargin="486.3234" TopMargin="694.3448" BottomMargin="105.6552" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
@@ -123,15 +99,15 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="ui/inventory/button/skillBtn.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="216.0000" RightMargin="216.0000" TopMargin="-180.7803" BottomMargin="762.7803" ctype="SpriteObjectData">
-                <Size X="188.0000" Y="218.0000" />
+              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="209.4998" RightMargin="209.5002" TopMargin="-229.2800" BottomMargin="760.2800" ctype="SpriteObjectData">
+                <Size X="201.0000" Y="269.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="310.0000" Y="871.7803" />
+                <Position X="309.9998" Y="894.7800" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="1.0897" />
-                <PreSize X="0.3032" Y="0.2725" />
-                <FileData Type="Normal" Path="textures/card/miniature_tower_cannon_1.png" Plist="" />
+                <PrePosition X="0.5000" Y="1.1185" />
+                <PreSize X="0.3242" Y="0.3363" />
+                <FileData Type="Normal" Path="textures/card/miniature_tower_ice_gun_3.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -171,6 +147,18 @@
             <PressedFileData Type="Normal" Path="textures/common/common_panel_page.png" Plist="" />
             <NormalFileData Type="Normal" Path="textures/common/common_panel_page.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="constraintTxt" ActionTag="1151510074" Tag="116" IconVisible="False" LeftMargin="-110.0001" RightMargin="-109.9999" TopMargin="-343.9487" BottomMargin="307.9487" FontSize="24" LabelText="Yêu cầu tiến hóa 2" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="220.0000" Y="36.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-0.0001" Y="325.9487" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="196" G="29" B="29" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Avo bold.ttf" Plist="" />
+            <OutlineColor A="255" R="77" G="77" B="77" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>

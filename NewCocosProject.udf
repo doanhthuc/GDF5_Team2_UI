@@ -31,13 +31,15 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="ui/main/MainScene.csd" />
-          <FilePathData Path="ui/inventory/upgradeSuccessPopup.csd" />
-          <FilePathData Path="ui/inventory/cardStatHolder.csd" />
           <FilePathData Path="ui/inventory/cardImageNode.csd" />
           <FilePathData Path="ui/inventory/cardUpgradeProgress.csd" />
+          <FilePathData Path="ui/inventory/cardDetailPopup.csd" />
+          <FilePathData Path="ui/inventory/card.csd" />
+          <FilePathData Path="ui/inventory/skillPopup.csd" />
+          <FilePathData Path="ui/inventory/notEnoughResPopup.csd" />
+          <FilePathData Path="ui/inventory/inventoryNode.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="ui/inventory/upgradeSuccessPopup.csd" />
+        <ActiveDocument Path="ui/inventory/cardDetailPopup.csd" />
       </Value>
     </Item>
   </Properties>
