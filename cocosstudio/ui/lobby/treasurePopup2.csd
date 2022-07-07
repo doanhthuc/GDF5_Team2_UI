@@ -99,35 +99,6 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="primaryBtn" ActionTag="118331801" Tag="171" IconVisible="False" LeftMargin="-97.0000" RightMargin="-97.0000" TopMargin="84.5000" BottomMargin="-195.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="164" Scale9Height="89" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="194.0000" Y="111.0000" />
-            <Children>
-              <AbstractNodeData Name="primaryActionTxt" ActionTag="-60569993" Tag="173" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="26.5000" BottomMargin="55.5000" FontSize="20" LabelText="Mở Rương" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
-                <Size X="146.0000" Y="29.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="97.0000" Y="70.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="0.6306" />
-                <PreSize X="0.7526" Y="0.2613" />
-                <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
-                <OutlineColor A="255" R="0" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-            </Children>
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position Y="-140.0000" />
-            <Scale ScaleX="0.6000" ScaleY="0.6000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="textures/common/common_btn_green.png" Plist="" />
-            <NormalFileData Type="Normal" Path="textures/common/common_btn_green.png" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
           <AbstractNodeData Name="goldBoxImg" ActionTag="142146105" Alpha="178" Tag="230" IconVisible="False" LeftMargin="-153.1071" RightMargin="13.1071" TopMargin="-49.2332" BottomMargin="9.2332" ctype="SpriteObjectData">
             <Size X="140.0000" Y="40.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -274,6 +245,50 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
             <OutlineColor A="255" R="77" G="77" B="77" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="openTreasureBtn" ActionTag="781658654" Tag="93" IconVisible="True" TopMargin="140.0000" BottomMargin="-140.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position Y="-140.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ui/lobby/openTreasureButton.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="speedUpTreasureBtn" ActionTag="2084328874" Tag="97" IconVisible="True" TopMargin="140.0000" BottomMargin="-140.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position Y="-140.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ui/lobby/speedUpTreasureBtn.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="openAfterTxt" ActionTag="-1074285916" Tag="159" IconVisible="False" LeftMargin="-89.7354" RightMargin="1.7354" TopMargin="83.7650" BottomMargin="-105.7650" FontSize="16" LabelText="Mở sau: " HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="88.0000" Y="22.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-45.7354" Y="-94.7650" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="57" G="57" B="57" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="countdownTxt" ActionTag="-1483685205" Tag="160" IconVisible="False" LeftMargin="4.7422" RightMargin="-99.7422" TopMargin="84.7032" BottomMargin="-106.7032" FontSize="16" LabelText="55h 43m" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="95.0000" Y="22.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="52.2422" Y="-95.7032" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="54" G="199" B="54" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="textures/font/SVN-Supercell Magic.ttf" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>

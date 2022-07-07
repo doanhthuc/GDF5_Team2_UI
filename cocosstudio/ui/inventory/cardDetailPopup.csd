@@ -99,10 +99,10 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="ui/inventory/button/skillBtn.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="209.4998" RightMargin="209.5002" TopMargin="-229.2800" BottomMargin="760.2800" ctype="SpriteObjectData">
+              <AbstractNodeData Name="towerImg" ActionTag="250663107" Tag="620" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="209.5000" RightMargin="209.5000" TopMargin="-229.2800" BottomMargin="760.2800" ctype="SpriteObjectData">
                 <Size X="201.0000" Y="269.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="309.9998" Y="894.7800" />
+                <Position X="310.0000" Y="894.7800" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="1.1185" />
@@ -134,7 +134,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="prevToweImgBtn" ActionTag="-1204506882" Tag="118" IconVisible="False" LeftMargin="-141.5000" RightMargin="118.5000" TopMargin="-400.0000" BottomMargin="376.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="11" Scale9Width="9" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="prevTowerImgBtn" ActionTag="-1204506882" Tag="118" IconVisible="False" LeftMargin="-141.5000" RightMargin="118.5000" TopMargin="-400.0000" BottomMargin="376.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="11" Scale9Width="9" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="23.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-130.0000" Y="388.0000" />

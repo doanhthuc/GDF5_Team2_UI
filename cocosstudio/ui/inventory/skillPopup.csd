@@ -94,10 +94,10 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="skillDescTxt" ActionTag="-79550074" Tag="103" IconVisible="False" LeftMargin="-177.5000" RightMargin="-177.5000" TopMargin="55.6484" BottomMargin="-123.6484" FontSize="24" LabelText="Đạn pháo sau khi bắn sẽ thiêu &#xA;đốt quái trong 1 giây" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="355.0000" Y="68.0000" />
+          <AbstractNodeData Name="skillDescTxt" ActionTag="-79550074" Tag="103" IconVisible="False" LeftMargin="-200.0002" RightMargin="-199.9998" TopMargin="24.6484" BottomMargin="-174.6484" IsCustomSize="True" FontSize="24" LabelText="Đạn pháo sau khi bắn sẽ thiêu &#xA;đốt quái trong 1 giây" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="400.0000" Y="150.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position Y="-89.6484" />
+            <Position X="-0.0002" Y="-99.6484" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

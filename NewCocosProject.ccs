@@ -6311,6 +6311,8 @@
             <Project Name="openTreasurePopup.csd" Type="Node" />
             <Project Name="playerInfoHolder.csd" Type="Node" />
             <Project Name="treasurePopup2.csd" Type="Node" />
+            <Project Name="openTreasureButton.csd" Type="Node" />
+            <Project Name="speedUpTreasureBtn.csd" Type="Node" />
           </Folder>
           <Folder Name="main">
             <Folder Name="bottom">
