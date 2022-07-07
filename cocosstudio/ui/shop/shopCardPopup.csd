@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="67" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="blur" ActionTag="797092026" Alpha="204" Tag="88" IconVisible="False" LeftMargin="-319.0585" RightMargin="-320.9415" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="blur" ActionTag="797092026" Alpha="204" Tag="88" IconVisible="False" LeftMargin="-319.0585" RightMargin="-320.9415" TopMargin="-568.0000" BottomMargin="-568.0000" TouchEnable="True" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="0.9415" />
@@ -54,17 +54,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="progress" ActionTag="1496685186" Tag="104" IconVisible="True" TopMargin="-123.2471" BottomMargin="123.2471" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position Y="123.2471" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/cardUpgradeProgress.csd" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="card" ActionTag="-2432156" Tag="252" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="card" ActionTag="1786761247" Tag="124" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position />
@@ -72,7 +62,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="ui/inventory/cardImageNode.csd" Plist="" />
+            <FileData Type="Normal" Path="ui/shop/cardImageNode_0.csd" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="quantity" ActionTag="1469294587" Tag="173" IconVisible="False" LeftMargin="-31.5584" RightMargin="-33.4416" TopMargin="41.5162" BottomMargin="-76.5162" FontSize="24" LabelText="x50" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="65.0000" Y="35.0000" />
@@ -95,6 +85,16 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/shop/costButton.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="progress" ActionTag="359591508" Tag="129" IconVisible="True" TopMargin="-123.2500" BottomMargin="123.2500" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position Y="123.2500" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ui/inventory/cardUpgradeProgress.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
