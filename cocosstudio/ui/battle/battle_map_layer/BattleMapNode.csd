@@ -17,7 +17,7 @@
             <FileData Type="Normal" Path="textures/map/map_background.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="opponent_map" ActionTag="708692176" Tag="1105" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="river" ActionTag="708692176" Tag="1105" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position />
@@ -27,20 +27,20 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleRiver.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="player_map" ActionTag="870241969" Tag="1100" IconVisible="True" TopMargin="237.5000" BottomMargin="-237.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="player_map" ActionTag="870241969" Tag="1100" IconVisible="True" TopMargin="242.5000" BottomMargin="-242.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position Y="-237.5000" />
+            <Position Y="-242.5000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ui/battle/battle_map_layer/BattleMapPlayer.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="river" ActionTag="1363554369" Tag="1095" IconVisible="True" TopMargin="-237.5000" BottomMargin="237.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="opponent_map" ActionTag="1363554369" Tag="1095" IconVisible="True" TopMargin="-242.5000" BottomMargin="242.5000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position Y="237.5000" />
+            <Position Y="242.5000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -113,17 +113,6 @@
             <FileData Type="Normal" Path="textures/map/map_house.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="decoration1" ActionTag="662517503" Tag="1364" IconVisible="False" LeftMargin="240.0681" RightMargin="-519.0681" TopMargin="-113.5001" BottomMargin="-113.4999" ctype="SpriteObjectData">
-            <Size X="279.0000" Y="227.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="379.5681" Y="0.0001" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="textures/map/map_decoration_0002.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
           <AbstractNodeData Name="decoration2" ActionTag="1988022129" Tag="1367" IconVisible="False" LeftMargin="-499.9534" RightMargin="253.9534" TopMargin="-158.6507" BottomMargin="-122.3493" ctype="SpriteObjectData">
             <Size X="246.0000" Y="281.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -133,6 +122,39 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="textures/map/map_decoration_0001.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="decoration1" ActionTag="662517503" Tag="1364" IconVisible="False" LeftMargin="262.0700" RightMargin="-541.0700" TopMargin="-113.5000" BottomMargin="-113.5000" ctype="SpriteObjectData">
+            <Size X="279.0000" Y="227.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="401.5700" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="textures/map/map_decoration_0002.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="opponent_monster_gateway" ActionTag="1355550480" Tag="58" IconVisible="False" LeftMargin="116.1367" RightMargin="-275.1367" TopMargin="-67.0655" BottomMargin="-57.9345" ctype="SpriteObjectData">
+            <Size X="159.0000" Y="125.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="195.6367" Y="4.5655" />
+            <Scale ScaleX="0.8832" ScaleY="0.8832" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="textures/map/map_monster_gate_enemy.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="player_monster_gateway" ActionTag="337272511" Tag="57" IconVisible="False" LeftMargin="-295.4854" RightMargin="89.4854" TopMargin="-90.0167" BottomMargin="-63.9833" ctype="SpriteObjectData">
+            <Size X="206.0000" Y="154.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-192.4854" Y="13.0167" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="textures/map/map_monster_gate_player.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_54" ActionTag="-10940647" Tag="1401" IconVisible="False" LeftMargin="-413.9808" RightMargin="268.9808" TopMargin="-402.7357" BottomMargin="232.7357" ctype="SpriteObjectData">
